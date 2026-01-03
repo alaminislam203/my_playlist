@@ -145,6 +145,398 @@
       "keyId": "9872e439f21f4a299cab249c6554daa3",
       "key": "0cdfcfe0d0f1fbe100554ce3ef4c4665"
     }
+  },
+  
+  {
+    "id": "13",
+    "name": "Fox Sports English",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/Fox_Sports_logo.png",
+    "category": "Sports",
+    "url": "https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Premier Sports 1",
+    "logo": "https://iili.io/KWnBoiB.png",
+    "category": "HD SPORTS",
+    "url": "https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "1444f4235529f183f0a5a486befe9cdb",
+      "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Premier Sports 2",
+    "logo": "https://iili.io/KWnCF1I.png",
+    "category": "HD SPORTS",
+    "url": "https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "1a5df53609ebc9857898c490f4724918",
+      "key": "77f62980d582ec541280796acf8b2d19"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Prime TV",
+    "logo": "https://iili.io/FfrCHqN.png",
+    "category": "HD SPORTS",
+    "url": "https://cors-proxy.rdpsell01.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lqj6tdomna/out/v1/817aa485206f4456ad594bbf61c1016c/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "680a24e3d3785ea8b3a33a56928ea128",
+      "key": "3f07a7f94f0ac7ee96057224b6a4163d"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Fox Sports 1",
+    "logo": "https://iili.io/KYJqv0G.png",
+    "category": "HD SPORTS",
+    "url": "https://cors-proxy.rdpsell01.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "5466ebd70704bdeb657f0abf3c5ca4ef",
+      "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Fox Sports 2",
+    "logo": "https://iili.io/KYJC4V9.png",
+    "category": "HD SPORTS",
+    "url": "https://cors-proxy.rdpsell01.workers.dev/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "09453ce820d65fbc675de3185f9e454c",
+      "key": "98cff9600995fa381c76fdacf3c7edae"
+    }
+  },
+  {
+    "id": "19",
+    "name": "CBS Sports",
+    "logo": "https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png",
+    "category": "Sports",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "d9623774ac5c8c351aafe97c5fe70267",
+      "key": "5164e6d05164a2d65fa8fcc962aa4861"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Tap Sports",
+    "logo": "https://i.imgur.com/EEDMg6S.png",
+    "category": "Sports",
+    "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "eabd2d95c89e42f2b0b0b40ce4179ea0",
+      "key": "0e7e35a07e2c12822316c0dc4873903f"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Laliga TV",
+    "logo": "https://iili.io/3DPOPG2.webp",
+    "category": "HD SPORTS",
+    "url": "https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "Yg5RuCWWR1UXonqkJcUigA",
+      "key": "K5uoEenFrq/IrhtxzcpNag"
+    }
+  },
+  {
+    "id": "22",
+    "name": "TSN Sports 5",
+    "logo": "https://i.ibb.co.com/F4dfsDM/tsn5.png",
+    "category": "Sports",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "8ce20e2a4b3dd04e0a6e5469b7cb47be",
+      "key": "163c323b65d0597b13f037641fd67b1e"
+    }
+  },
+  {
+    "id": "23",
+    "name": "ZIGGO SPORT 1",
+    "logo": "https://i.ibb.co.com/HV2c1Cc/ziggosport.png",
+    "category": "☆SPORT+☆",
+    "url": "https://mag03.tvx.prd.tv.odido.nl/.../3221241590.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "ef34ae91b4f2415e8439b2ad105e7488",
+      "key": "243248d8de1ff8c7c587ee2057317523"
+    }
+  },
+  {
+    "id": "24",
+    "name": "ZIGGO SPORT 2",
+    "logo": "https://i.ibb.co.com/3fNq3Dr/ziggosport2.png",
+    "category": "☆SPORT+☆",
+    "url": "https://mag03.tvx.prd.tv.odido.nl/.../3221241560.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "3cfa8625f650406ebf6a4d1ea737f572",
+      "key": "0534e747c70b364aa7210e1bf3191df0"
+    }
+  },
+  {
+    "id": "25",
+    "name": "ZIGGO SPORT 3",
+    "logo": "https://i.ibb.co.com/b2Q0RdR/ziggosport3.png",
+    "category": "☆SPORT+☆",
+    "url": "https://mag02.tvx.prd.tv.odido.nl/.../3221241511.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "4dbea4b5713a4aa1ae3a2544cd522fc7",
+      "key": "a8323ea99b2d6200a48e1bc27322d548"
+    }
+  },
+  {
+    "id": "26",
+    "name": "ZIGGO SPORT 5",
+    "logo": "https://i.ibb.co.com/bbVShcY/ziggosport5.png",
+    "category": "☆SPORT+☆",
+    "url": "https://mag04.tvx.prd.tv.odido.nl/.../3221241610.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "3fb40d85724942f994d86943f48021db",
+      "key": "a6da8742502c8a2153067f5f2a70fb02"
+    }
+  },
+  {
+    "id": "27",
+    "name": "ZIGGO SPORT 6",
+    "logo": "https://i.ibb.co.com/P5xs9ZF/ziggosport6.png",
+    "category": "☆SPORT+☆",
+    "url": "https://mag03.tvx.prd.tv.odido.nl/.../3221241521.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "1a0ffa532aa2498490826e2f6a37f7c9",
+      "key": "a8cec27bc7d47909c5b0d8f473b43e8d"
+    }
+  },
+  {
+    "id": "28",
+    "name": "DAZN 1 RIZE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Generic_sports_logo.png",
+    "category": "Sports",
+    "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "8bcec6b31cc9edcb6768ab26548e22c3",
+      "key": "e3c5b07328894c33734a4de6ae55a87f"
+    }
+  },
+  {
+    "id": "29",
+    "name": "EUROSPORT 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s",
+    "category": "Sports",
+    "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "11223344556677889900112233445566",
+      "key": "4b80724d0ef86bcb2c21f7999d67739d"
+    }
+  },{
+  "id": "30",
+  "name": "EUROSPORT 2",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoBgMQ2Ia0mhn7QY_hV_5us_kfXCxY5tX6EjY2aG9tYBsYOTz7iFwvAiWZw&s",
+  "category": "Sports",
+  "url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "11223344556677889900112233445566",
+    "key": "4b80724d0ef86bcb2c21f7999d67739d"
   }
+},
+{
+  "id": "31",
+  "name": "Fubo Sports 1",
+  "logo": "https://i.imgur.com/7BwABte.png",
+  "category": "Sports",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "dc69b6159a0f9f0a4e03b3ff91cbacd5",
+    "key": "d0dcbcd7723bc40df0bf34c9c092d51f"
+  }
+},
+{
+  "id": "32",
+  "name": "Fubo Sports 2",
+  "logo": "https://i.imgur.com/7BwABte.png",
+  "category": "Sports",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "3dcfbec0e7146928baa55210bf2cb62f",
+    "key": "bc85f74f815d9be5ae1dd6defaa05135"
+  }
+},
+{
+  "id": "33",
+  "name": "UFC +",
+  "logo": "https://iili.io/KWCPXBS.png",
+  "category": "HD SPORTS",
+  "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "a49085f8da5e65af1efff0edac830b1f",
+    "key": "4659bc58a85c062e3fe0c039a446fe47"
+  }
+},
+{
+  "id": "34",
+  "name": "Premier League TV",
+  "logo": "https://iili.io/KWCtSja.png",
+  "category": "HD SPORTS",
+  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "002046c9a49b9ab1cdb6616bec5d26c3",
+    "key": "d2f92f6b7edc9a1a05d393ba0c20ef9e"
+  }
+},
+{
+  "id": "35",
+  "name": "Fifa+",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/Generic_sports_logo.png",
+  "category": "Sports",
+  "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+},
+{
+  "id": "36",
+  "name": "Fancode Live 1",
+  "logo": "https://iili.io/KWn2Z0u.png",
+  "category": "HD SPORTS",
+  "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
+    "key": "214bd176832872339ce184338320f9a2"
+  }
+},
+{
+  "id": "37",
+  "name": "Fancode Live 2",
+  "logo": "https://iili.io/KWn2Z0u.png",
+  "category": "HD SPORTS",
+  "url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "7e9239c1982d984a002df3ed049d0756",
+    "key": "1b8a17598129a3618535c8fb05f103fe"
+  }
+},
+{
+  "id": "38",
+  "name": "BeIN Sports 1 HD",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+  "category": "HD SPORTS",
+  "url": "https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "335dad778109954503dcbb21dc92015f",
+    "key": "24bfd75d436cbf73168a2a2dccd40281"
+  }
+},
+{
+  "id": "39",
+  "name": "BeIN Sports 2 HD",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
+  "category": "HD SPORTS",
+  "url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "0b42be2664d7e811d04f3e504e0924c5",
+    "key": "ae24090123b8c72ac5404dc152847cb8"
+  }
+},
+{
+  "id": "40",
+  "name": "BeIN Sports 3 HD",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
+  "category": "HD SPORTS",
+  "url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "7995c724a13748ed970840a8ab5bb9b3",
+    "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+  }
+},
+{
+  "id": "41",
+  "name": "Fast Sports HD",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjmoUatVnbQsL-NNHSj2L9zjbbMg92x5pNA&s",
+  "category": "Sports",
+  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd",
+  "drm": {
+    "type": "clearkey",
+    "keyId": "ba9b637b639af897f228114363e882fa",
+    "key": "27508374902bd52361f08a2ad4dba3a3"
+  }
+},{
+  "id": "42",
+  "name": "Dubai Sports 1",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/Generic_sports_logo.png",
+  "category": "Sports",
+  "url": "https://dmidspta.cdn.mgmlcdn.com:443/dubaisports/smil:dubaisports.stream.smil/master.m3u8"
+},
+{
+  "id": "43",
+  "name": "Dubai Sports 2",
+  "logo": "https://i.postimg.cc/8C7BdHMr/Dubai-Sports-2.jpg",
+  "category": "Sports",
+  "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8"
+},
+{
+  "id": "44",
+  "name": "Dubai Sports 3",
+  "logo": "https://i.postimg.cc/zfhHXPTT/Dubai-Sports-3.jpg",
+  "category": "Sports",
+  "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8"
+},
+{
+  "id": "45",
+  "name": "Tennis Channel",
+  "logo": "https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",
+  "category": "Sports",
+  "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+},
+{
+  "id": "46",
+  "name": "Trace Sport",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/Generic_sports_logo.png",
+  "category": "Sports",
+  "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+},{
+  "id": "47",
+  "name": "Ten Sports HD Flussonic",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/650px-Ten_Sports_Logo.png",
+  "category": "Cricket",
+  "url": "https://flussonic.superfasthdserver.com/TenSports/index.mpd"
+},
+{
+  "id": "48",
+  "name": "A SPORTS HD",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/Generic_sports_logo.png",
+  "category": "Sports",
+  "url": "https://stalker.tnm3us.workers.dev/30975.m3u8"
+}
+
+
+
 ]
+
+
+
+
 

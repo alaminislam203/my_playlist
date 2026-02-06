@@ -92,6 +92,24 @@ get_header(); ?>
                         <button onclick="changeTemplate('nature')" class="tmp-btn" data-template="nature">
                             <i class="fas fa-leaf mr-1"></i>Nature
                         </button>
+                        <button onclick="changeTemplate('dark-grad')" class="tmp-btn" data-template="dark-grad">
+                            <i class="fas fa-fill-drip mr-1"></i>Dark Grad
+                        </button>
+                        <button onclick="changeTemplate('clean-white')" class="tmp-btn" data-template="clean-white">
+                            <i class="fas fa-circle-notch mr-1"></i>Clean White
+                        </button>
+                        <button onclick="changeTemplate('social')" class="tmp-btn" data-template="social">
+                            <i class="fas fa-share-alt mr-1"></i>Social
+                        </button>
+                        <button onclick="changeTemplate('editorial')" class="tmp-btn" data-template="editorial">
+                            <i class="fas fa-columns mr-1"></i>Editorial
+                        </button>
+                        <button onclick="changeTemplate('quote')" class="tmp-btn" data-template="quote">
+                            <i class="fas fa-quote-left mr-1"></i>Quote
+                        </button>
+                        <button onclick="changeTemplate('breaking-now')" class="tmp-btn" data-template="breaking-now">
+                            <i class="fas fa-bolt mr-1"></i>Breaking Now
+                        </button>
                     </div>
                 </div>
 
@@ -605,6 +623,25 @@ get_header(); ?>
 
 .template-nature #gradient-overlay { background: linear-gradient(to top, rgba(20, 83, 45, 0.9), transparent) !important; }
 .template-nature #view-headline { font-family: 'Mina', sans-serif; color: #dcfce7 !important; }
+
+/* New Template Styles */
+.template-dark-grad #gradient-overlay { background: linear-gradient(to top, #000, transparent) !important; }
+.template-dark-grad #view-headline { text-align: center; border: none; }
+
+.template-clean-white #gradient-overlay { background: none !important; background-color: #fff !important; }
+.template-clean-white #view-headline { color: #000 !important; text-align: center; }
+
+.template-social #view-headline { font-family: 'Inter', sans-serif; font-weight: 700; }
+.template-social #template-decor { border-top: 5px solid #dc2626; width: 100px; position: absolute; bottom: 200px; left: 30px; }
+
+.template-editorial #gradient-overlay { background: none !important; background-color: #f8fafc !important; }
+.template-editorial #view-headline { font-family: 'Shrikhand', cursive; color: #1e293b !important; font-size: 50px !important; }
+
+.template-quote #view-headline { font-family: 'Pacifico', cursive; text-align: center; font-size: 40px !important; }
+.template-quote #template-decor { font-family: 'serif'; font-size: 100px; color: rgba(255,255,255,0.2); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); content: '"'; }
+
+.template-breaking-now #gradient-overlay { background: linear-gradient(to top, #000 0%, #ea580c 5%, transparent 30%) !important; }
+.template-breaking-now #view-headline { font-family: 'Baloo Da 2', cursive; text-shadow: 0 0 10px #ea580c; }
 </style>
 
 <script>
@@ -734,6 +771,26 @@ window.changeTemplate = function(template) {
             break;
         case 'nature':
             overlay.style.background = 'linear-gradient(to top, rgba(6, 78, 59, 0.9), transparent)';
+            break;
+        case 'dark-grad':
+            overlay.style.background = 'linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, transparent 100%)';
+            break;
+        case 'clean-white':
+            overlay.style.background = 'linear-gradient(to top, rgba(255,255,255,1) 0%, transparent 50%)';
+            headline.style.color = '#000000';
+            break;
+        case 'social':
+            overlay.style.background = 'linear-gradient(to top, rgba(0,0,0,0.8), transparent)';
+            break;
+        case 'editorial':
+            overlay.style.background = 'linear-gradient(to top, #ffffff 20%, transparent 60%)';
+            headline.style.color = '#000000';
+            break;
+        case 'quote':
+            overlay.style.background = 'radial-gradient(circle, rgba(0,0,0,0.4), rgba(0,0,0,0.9))';
+            break;
+        case 'breaking-now':
+            overlay.style.background = 'linear-gradient(to top, #000 0%, #000 20%, transparent 60%)';
             break;
     }
 
@@ -930,27 +987,60 @@ window.toggleRuler = function() {
 
 // ==================== HISTORY (UNDO/REDO) ====================
 function saveHistory() {
-    // Simple history implementation
     state.historyIndex++;
-    state.history[state.historyIndex] = {
+    state.history = state.history.slice(0, state.historyIndex);
+    state.history.push({
         template: state.currentTemplate,
-        filters: {...state.filters}
-    };
+        filters: {...state.filters},
+        layers: JSON.parse(JSON.stringify(state.layers))
+    });
+    if(state.history.length > 50) {
+        state.history.shift();
+        state.historyIndex--;
+    }
 }
 
 window.undo = function() {
     if(state.historyIndex > 0) {
         state.historyIndex--;
-        // Restore state
+        const snapshot = state.history[state.historyIndex];
+        restoreSnapshot(snapshot);
     }
 };
 
 window.redo = function() {
     if(state.historyIndex < state.history.length - 1) {
         state.historyIndex++;
-        // Restore state
+        const snapshot = state.history[state.historyIndex];
+        restoreSnapshot(snapshot);
     }
 };
+
+function restoreSnapshot(snapshot) {
+    state.layers = JSON.parse(JSON.stringify(snapshot.layers));
+    state.currentTemplate = snapshot.template;
+    state.filters = {...snapshot.filters};
+
+    // Clear and re-render all layers
+    const canvas = document.getElementById('card-canvas');
+    document.querySelectorAll('.layer-element').forEach(el => {
+        if(!['headline-layer', 'subhead-layer'].includes(el.id)) el.remove();
+    });
+
+    state.layers.forEach(layer => {
+        if(['headline-layer', 'subhead-layer'].includes(layer.id)) {
+            const el = document.getElementById(layer.id);
+            el.style.display = layer.visible ? '' : 'none';
+            el.textContent = layer.content;
+            el.style.fontSize = layer.fontSize + 'px';
+            el.style.color = layer.color;
+            el.style.fontFamily = layer.fontFamily;
+        } else {
+            renderNewLayer(layer);
+        }
+    });
+    updateLayersPanel();
+}
 
 // ==================== AI FEATURES ====================
 window.aiOptimize = async function(type) {
@@ -1093,6 +1183,7 @@ window.addText = function() {
     });
     renderNewLayer(state.layers[state.layers.length - 1]);
     selectLayer(id);
+    saveHistory();
 };
 
 window.addShape = function() {
@@ -1110,6 +1201,7 @@ window.addShape = function() {
     });
     renderNewLayer(state.layers[state.layers.length - 1]);
     selectLayer(id);
+    saveHistory();
 };
 
 window.addSticker = function() {
@@ -1130,6 +1222,7 @@ window.addSticker = function() {
     });
     renderNewLayer(state.layers[state.layers.length - 1]);
     selectLayer(id);
+    saveHistory();
 };
 
 function renderNewLayer(layer) {

@@ -263,9 +263,12 @@ get_header(); ?>
 
                         <!-- Capture Area -->
                         <div id="capture-area" class="w-full h-full relative overflow-hidden" style="transform-origin: center;">
-                            <div id="card-canvas" class="w-full h-full relative">
+                            <div id="card-canvas" class="w-full h-full relative template-classic">
                                 <!-- Background Image -->
                                 <img id="bg-preview" class="absolute inset-0 w-full h-full object-cover" style="filter: brightness(1) contrast(1) saturate(1);">
+
+                                <!-- Decorative Elements -->
+                                <div id="template-decor" class="absolute inset-0 pointer-events-none"></div>
 
                                 <!-- Gradient Overlay -->
                                 <div id="gradient-overlay" class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent"></div>
@@ -340,20 +343,31 @@ get_header(); ?>
                             </div>
                             <h3 class="text-xs font-black text-slate-700 dark:text-slate-300 uppercase tracking-widest">Layers</h3>
                         </div>
-                        <button onclick="addLayer()" class="text-xs font-bold text-purple-600 hover:text-purple-700">
-                            <i class="fas fa-plus"></i>
-                        </button>
-                    </div>
-                    <div id="layers-list" class="space-y-2 max-h-48 overflow-y-auto custom-scrollbar">
-                        <div class="layer-item active">
-                            <i class="fas fa-image mr-2"></i>
-                            <span>Background</span>
-                            <div class="ml-auto flex gap-1">
-                                <button class="layer-action"><i class="fas fa-eye"></i></button>
-                                <button class="layer-action"><i class="fas fa-lock"></i></button>
-                            </div>
+                        <div class="flex gap-2">
+                            <button onclick="addText()" class="w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-xs" title="Add Text"><i class="fas fa-font"></i></button>
+                            <button onclick="addShape()" class="w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-xs" title="Add Shape"><i class="fas fa-shapes"></i></button>
+                            <button onclick="addSticker()" class="w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-xs" title="Add Sticker"><i class="fas fa-smile"></i></button>
                         </div>
                     </div>
+                    <div id="layers-list" class="space-y-2 max-h-48 overflow-y-auto custom-scrollbar">
+                        <!-- Layers injected here -->
+                    </div>
+                </div>
+
+                <!-- Properties Panel (Dynamic) -->
+                <div id="properties-panel" class="bg-white dark:bg-slate-900 rounded-3xl p-6 shadow-xl border-2 border-slate-100 dark:border-slate-800 hidden">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 bg-gradient-to-br from-indigo-500 to-blue-600 rounded-xl flex items-center justify-center">
+                            <i class="fas fa-sliders-h text-white text-sm"></i>
+                        </div>
+                        <h3 class="text-xs font-black text-slate-700 dark:text-slate-300 uppercase tracking-widest">Properties</h3>
+                    </div>
+                    <div id="property-controls" class="space-y-4">
+                        <!-- Controls injected here -->
+                    </div>
+                    <button onclick="deleteSelectedLayer()" class="w-full mt-4 py-2 bg-red-50 dark:bg-red-900/20 text-red-600 text-[10px] font-bold rounded-xl uppercase tracking-wider hover:bg-red-100 transition-colors">
+                        <i class="fas fa-trash-alt mr-2"></i>Delete Layer
+                    </button>
                 </div>
 
                 <!-- Design Tools -->
@@ -385,11 +399,26 @@ get_header(); ?>
                             </label>
                             <select id="font-family" onchange="updateFontFamily()"
                                     class="w-full bg-slate-50 dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 rounded-xl p-2 text-xs dark:text-white outline-none cursor-pointer">
-                                <option value="'Inter', sans-serif">Inter</option>
-                                <option value="'Poppins', sans-serif">Poppins</option>
-                                <option value="'Roboto', sans-serif">Roboto</option>
-                                <option value="'Montserrat', sans-serif">Montserrat</option>
-                                <option value="'Playfair Display', serif">Playfair</option>
+                                <optgroup label="Bengali Fonts">
+                                    <option value="'Hind Siliguri', sans-serif">Hind Siliguri</option>
+                                    <option value="'Noto Sans Bengali', sans-serif">Noto Sans Bengali</option>
+                                    <option value="'Tiro Bangla', serif">Tiro Bangla</option>
+                                    <option value="'Mina', sans-serif">Mina</option>
+                                    <option value="'Baloo Da 2', cursive">Baloo Da 2</option>
+                                    <option value="'Aneka Bangla', sans-serif">Aneka Bangla</option>
+                                    <option value="'Galada', cursive">Galada</option>
+                                    <option value="'Atma', system-ui">Atma</option>
+                                </optgroup>
+                                <optgroup label="English Fonts">
+                                    <option value="'Inter', sans-serif">Inter</option>
+                                    <option value="'Poppins', sans-serif">Poppins</option>
+                                    <option value="'Bebas Neue', cursive">Bebas Neue</option>
+                                    <option value="'Montserrat', sans-serif">Montserrat</option>
+                                    <option value="'Righteous', cursive">Righteous</option>
+                                    <option value="'Pacifico', cursive">Pacifico</option>
+                                    <option value="'Lobster', cursive">Lobster</option>
+                                    <option value="'Shrikhand', cursive">Shrikhand</option>
+                                </optgroup>
                             </select>
                         </div>
                     </div>
@@ -479,7 +508,7 @@ get_header(); ?>
 <!-- External Libraries -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Aneka+Bangla:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Mina:wght@400;700&family=Noto+Sans+Bengali:wght@100..900&family=Noto+Serif+Bengali:wght@100..900&family=Tiro+Bangla&family=Galada&family=Atma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Aneka+Bangla:wght@400;700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Mina:wght@400;700&family=Noto+Sans+Bengali:wght@100..900&family=Noto+Serif+Bengali:wght@100..900&family=Tiro+Bangla&family=Galada&family=Atma:wght@300;400;500;600;700&family=Baloo+Da+2:wght@400;500;600;700;800&family=Shrikhand&family=Lobster&family=Pacifico&family=Bebas+Neue&family=Righteous&display=swap" rel="stylesheet">
 
 <style>
 /* Animations */
@@ -542,6 +571,40 @@ get_header(); ?>
 .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
 .custom-scrollbar::-webkit-scrollbar-thumb { background: rgba(220, 38, 38, 0.3); border-radius: 10px; }
 .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: rgba(220, 38, 38, 0.5); }
+
+/* Template Specific Styles */
+.template-news #gradient-overlay { background: linear-gradient(to top, #000 0%, #000 25%, transparent 60%) !important; }
+.template-news #view-headline { border-left: 12px solid #dc2626; padding-left: 25px; text-transform: uppercase; font-family: 'Hind Siliguri', sans-serif; font-weight: 900; }
+
+.template-sports #gradient-overlay { background: linear-gradient(135deg, rgba(220, 38, 38, 0.9) 0%, transparent 70%) !important; }
+.template-sports #view-headline { font-style: italic; text-transform: uppercase; letter-spacing: -2px; font-family: 'Bebas Neue', cursive; font-size: 60px !important; }
+
+.template-tech #gradient-overlay { background: radial-gradient(circle at top right, rgba(6, 182, 212, 0.4), transparent), linear-gradient(to top, rgba(15, 23, 42, 1), transparent) !important; }
+.template-tech #view-headline { font-family: 'Righteous', cursive; letter-spacing: 3px; color: #06b6d4 !important; }
+
+.template-breaking #gradient-overlay { background: linear-gradient(to bottom, #dc2626 0%, #dc2626 15%, transparent 25%), linear-gradient(to top, #000 0%, #000 25%, transparent 60%) !important; }
+.template-breaking #view-headline { background: #dc2626; color: #fff !important; display: inline-block; padding: 10px 25px; transform: skewX(-10deg); }
+
+.template-minimal #gradient-overlay { background: none !important; background-color: rgba(255,255,255,0.1) !important; backdrop-filter: grayscale(1); }
+.template-minimal #view-headline { text-align: center; font-weight: 200; font-family: 'Inter', sans-serif; }
+
+.template-business #gradient-overlay { background: linear-gradient(to right, #1e293b 40%, transparent) !important; }
+.template-business #view-headline { border-bottom: 4px solid #3b82f6; display: inline-block; }
+
+.template-creative #gradient-overlay { background: linear-gradient(45deg, rgba(99, 102, 241, 0.7), rgba(236, 72, 153, 0.7)) !important; mix-blend-mode: overlay; }
+.template-creative #view-headline { font-family: 'Pacifico', cursive; }
+
+.template-cyber #template-decor { border: 4px solid #ec4899; margin: 20px; box-shadow: 0 0 20px #ec4899, inset 0 0 20px #ec4899; clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 90% 100%, 0% 100%); }
+.template-cyber #view-headline { text-shadow: 4px 4px #06b6d4; font-family: 'Bebas Neue', cursive; color: #fff !important; }
+
+.template-luxury #template-decor { border: 2px solid #d4af37; margin: 30px; outline: 10px solid #d4af37; outline-offset: -20px; }
+.template-luxury #view-headline { font-family: 'Playfair Display', serif; color: #d4af37 !important; text-align: center; }
+
+.template-gaming #gradient-overlay { background: radial-gradient(circle at center, transparent, #000) !important; }
+.template-gaming #view-headline { color: #22c55e !important; font-family: 'Righteous', cursive; text-shadow: 0 0 10px #22c55e; }
+
+.template-nature #gradient-overlay { background: linear-gradient(to top, rgba(20, 83, 45, 0.9), transparent) !important; }
+.template-nature #view-headline { font-family: 'Mina', sans-serif; color: #dcfce7 !important; }
 </style>
 
 <script>
@@ -556,13 +619,20 @@ let state = {
     history: [],
     historyIndex: -1,
     gridVisible: false,
-    rulerVisible: false
+    rulerVisible: false,
+    layers: [
+        { id: 'bg-layer', type: 'background', name: 'Background', visible: true, locked: false },
+        { id: 'headline-layer', type: 'text', name: 'Headline', content: 'Your Headline Goes Here', x: 0, y: 0, fontSize: 36, color: '#ffffff', fontFamily: 'Hind Siliguri', visible: true, locked: false, isCore: true },
+        { id: 'subhead-layer', type: 'text', name: 'Subheading', content: 'Optional Subheading', x: 0, y: 0, fontSize: 18, color: '#ffffff', fontFamily: 'Hind Siliguri', visible: false, locked: false, isCore: true }
+    ],
+    selectedLayerId: null
 };
 
 // ==================== INITIALIZATION ====================
 document.addEventListener('DOMContentLoaded', function() {
     initializeEventListeners();
     initDraggable();
+    initCoreLayers();
     updatePreview();
     updateLayersPanel();
 
@@ -629,25 +699,22 @@ window.changeTemplate = function(template) {
         }
     });
 
-    // Apply template styles
+    const canvas = document.getElementById('card-canvas');
     const overlay = document.getElementById('gradient-overlay');
     const headline = document.getElementById('view-headline');
+    const decor = document.getElementById('template-decor');
 
-    // Ensure headline is always white as requested
+    // Reset styles
+    canvas.className = 'w-full h-full relative template-' + template;
+    overlay.style.background = '';
+    overlay.style.mixBlendMode = 'normal';
+    headline.style = '';
     headline.style.color = '#ffffff';
+    decor.innerHTML = '';
 
     switch(template) {
-        case 'modern':
-            overlay.style.background = 'linear-gradient(135deg, rgba(99, 102, 241, 0.8), rgba(168, 85, 247, 0.8))';
-            break;
-        case 'minimal':
-            overlay.style.background = 'linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent)';
-            break;
-        case 'cyber':
-            overlay.style.background = 'linear-gradient(to top, rgba(15, 23, 42, 0.9), rgba(236, 72, 153, 0.3))';
-            break;
-        case 'luxury':
-            overlay.style.background = 'linear-gradient(to top, rgba(20, 20, 20, 0.9), rgba(212, 175, 55, 0.2))';
+        case 'breaking':
+            decor.innerHTML = '<div class="absolute top-0 left-0 bg-yellow-500 text-black font-black px-4 py-1 text-sm uppercase">Exclusive</div>';
             break;
         case 'vintage':
             overlay.style.background = 'linear-gradient(to top, rgba(67, 56, 20, 0.8), rgba(67, 56, 20, 0.3))';
@@ -668,9 +735,6 @@ window.changeTemplate = function(template) {
         case 'nature':
             overlay.style.background = 'linear-gradient(to top, rgba(6, 78, 59, 0.9), transparent)';
             break;
-        default:
-            overlay.style.background = 'linear-gradient(to top, black, rgba(0, 0, 0, 0.2), transparent)';
-            overlay.style.mixBlendMode = 'normal';
     }
 
     saveHistory();
@@ -831,6 +895,24 @@ function dragMoveListener (event) {
 
     target.setAttribute('data-x', x)
     target.setAttribute('data-y', y)
+
+    // Update state
+    const layer = state.layers.find(l => l.id === target.id);
+    if(layer) {
+        layer.x = x;
+        layer.y = y;
+    }
+}
+
+function initCoreLayers() {
+    const headline = document.getElementById('view-headline');
+    const subhead = document.getElementById('view-subhead');
+
+    headline.id = 'headline-layer';
+    subhead.id = 'subhead-layer';
+
+    headline.classList.add('layer-element');
+    subhead.classList.add('layer-element');
 }
 
 // ==================== GRID & RULER ====================
@@ -942,64 +1024,254 @@ async function callAI(prompt) {
 // ==================== LAYER MANAGEMENT ====================
 window.updateLayersPanel = function() {
     const list = document.getElementById('layers-list');
-    const layers = [
-        { id: 'bg-preview', name: 'Background', icon: 'fa-image' },
-        { id: 'logo-layer', name: 'Logo', icon: 'fa-copyright' },
-        { id: 'view-headline', name: 'Headline', icon: 'fa-heading' },
-        { id: 'view-subhead', name: 'Subheading', icon: 'fa-paragraph' }
-    ];
-
-    list.innerHTML = layers.map(layer => `
-        <div class="layer-item ${layer.id === 'bg-preview' ? 'active' : ''}" onclick="selectLayer('${layer.id}')">
-            <i class="fas ${layer.icon} mr-2"></i>
-            <span>${layer.name}</span>
+    list.innerHTML = state.layers.slice().reverse().map(layer => `
+        <div class="layer-item ${state.selectedLayerId === layer.id ? 'active' : ''}" onclick="selectLayer('${layer.id}')">
+            <i class="fas ${getLayerIcon(layer.type)} mr-2 opacity-50"></i>
+            <span class="truncate">${layer.name}</span>
             <div class="ml-auto flex gap-1">
                 <button class="layer-action" onclick="event.stopPropagation(); toggleLayerVisibility('${layer.id}')">
-                    <i class="fas fa-eye" id="eye-${layer.id}"></i>
+                    <i class="fas ${layer.visible ? 'fa-eye' : 'fa-eye-slash'}"></i>
+                </button>
+                <button class="layer-action" onclick="event.stopPropagation(); toggleLayerLock('${layer.id}')">
+                    <i class="fas ${layer.locked ? 'fa-lock' : 'fa-lock-open'}"></i>
                 </button>
             </div>
         </div>
     `).join('');
+    updatePropertiesPanel();
 };
 
-window.selectLayer = function(id) {
-    document.querySelectorAll('.layer-item').forEach(el => el.classList.remove('active'));
-    // Visual feedback for selection
-    const canvasEl = document.getElementById(id);
-    if(canvasEl) {
-        document.querySelectorAll('.layer').forEach(el => el.style.outline = 'none');
-        if(id !== 'bg-preview') canvasEl.style.outline = '2px dashed #dc2626';
+function getLayerIcon(type) {
+    switch(type) {
+        case 'text': return 'fa-font';
+        case 'shape': return 'fa-shapes';
+        case 'image': return 'fa-image';
+        case 'background': return 'fa-layer-group';
+        default: return 'fa-square';
     }
+}
+
+window.selectLayer = function(id) {
+    state.selectedLayerId = id;
+    document.querySelectorAll('.layer-element').forEach(el => el.classList.remove('selected'));
+    const el = document.getElementById(id);
+    if(el) el.classList.add('selected');
+    updateLayersPanel();
 };
 
 window.toggleLayerVisibility = function(id) {
-    const el = document.getElementById(id);
-    const eye = document.getElementById('eye-' + id);
-    if(el.classList.contains('hidden')) {
-        el.classList.remove('hidden');
-        eye.classList.replace('fa-eye-slash', 'fa-eye');
-    } else {
-        el.classList.add('hidden');
-        eye.classList.replace('fa-eye', 'fa-eye-slash');
+    const layer = state.layers.find(l => l.id === id);
+    if(layer) {
+        layer.visible = !layer.visible;
+        const el = document.getElementById(id);
+        if(el) el.style.display = layer.visible ? '' : 'none';
+        updateLayersPanel();
     }
 };
 
-window.addLayer = function() {
-    alert('Advanced layer addition coming in v3.1!');
+window.toggleLayerLock = function(id) {
+    const layer = state.layers.find(l => l.id === id);
+    if(layer) {
+        layer.locked = !layer.locked;
+        updateLayersPanel();
+    }
 };
 
-// ==================== TOOLS ====================
 window.addText = function() {
-    alert('Text layer feature coming soon!');
+    const id = 'text-' + Date.now();
+    state.layers.push({
+        id: id,
+        type: 'text',
+        name: 'New Text',
+        content: 'New Text Layer',
+        x: 50, y: 50,
+        fontSize: 24,
+        color: '#ffffff',
+        fontFamily: 'Hind Siliguri',
+        visible: true,
+        locked: false
+    });
+    renderNewLayer(state.layers[state.layers.length - 1]);
+    selectLayer(id);
 };
 
 window.addShape = function() {
-    alert('Shape feature coming soon!');
+    const id = 'shape-' + Date.now();
+    state.layers.push({
+        id: id,
+        type: 'shape',
+        name: 'New Shape',
+        x: 100, y: 100,
+        width: 100, height: 100,
+        color: '#dc2626',
+        borderRadius: 0,
+        visible: true,
+        locked: false
+    });
+    renderNewLayer(state.layers[state.layers.length - 1]);
+    selectLayer(id);
 };
 
 window.addSticker = function() {
-    alert('Sticker feature coming soon!');
+    const sticker = prompt("Enter an emoji or icon name (e.g. 🔥, ⚡, 🔔):", "🔥");
+    if(!sticker) return;
+    const id = 'sticker-' + Date.now();
+    state.layers.push({
+        id: id,
+        type: 'text', // Stickers are treated as text/emoji for simplicity
+        name: 'Sticker',
+        content: sticker,
+        x: 150, y: 150,
+        fontSize: 64,
+        color: '#ffffff',
+        fontFamily: 'serif',
+        visible: true,
+        locked: false
+    });
+    renderNewLayer(state.layers[state.layers.length - 1]);
+    selectLayer(id);
 };
+
+function renderNewLayer(layer) {
+    const canvas = document.getElementById('card-canvas');
+    let div = document.getElementById(layer.id);
+    if(!div) {
+        div = document.createElement('div');
+        div.id = layer.id;
+        div.className = 'layer-element layer absolute cursor-move';
+        canvas.appendChild(div);
+    }
+
+    div.style.left = layer.x + 'px';
+    div.style.top = layer.y + 'px';
+    div.style.opacity = layer.opacity || 1;
+    div.style.display = layer.visible ? '' : 'none';
+
+    if(layer.type === 'text') {
+        div.textContent = layer.content;
+        div.style.fontSize = (layer.fontSize || 24) + 'px';
+        div.style.color = layer.color || '#ffffff';
+        div.style.fontFamily = layer.fontFamily || 'Hind Siliguri';
+    } else if(layer.type === 'shape') {
+        div.style.width = (layer.width || 100) + 'px';
+        div.style.height = (layer.height || 100) + 'px';
+        div.style.backgroundColor = layer.color || '#dc2626';
+        div.style.borderRadius = (layer.borderRadius || 0) + '%';
+    } else if(layer.type === 'image') {
+        div.innerHTML = `<img src="${layer.src}" class="w-full h-auto pointer-events-none">`;
+        div.style.width = (layer.width || 100) + 'px';
+    }
+
+    updateLayersPanel();
+}
+
+window.deleteSelectedLayer = function() {
+    if(!state.selectedLayerId) return;
+    const layer = state.layers.find(l => l.id === state.selectedLayerId);
+    if(layer && layer.isCore) return alert("Core layers cannot be deleted!");
+
+    state.layers = state.layers.filter(l => l.id !== state.selectedLayerId);
+    const el = document.getElementById(state.selectedLayerId);
+    if(el) el.remove();
+    state.selectedLayerId = null;
+    updateLayersPanel();
+};
+
+function updatePropertiesPanel() {
+    const panel = document.getElementById('properties-panel');
+    const controls = document.getElementById('property-controls');
+
+    if(!state.selectedLayerId || state.selectedLayerId === 'bg-layer') {
+        panel.classList.add('hidden');
+        return;
+    }
+
+    const layer = state.layers.find(l => l.id === state.selectedLayerId);
+    if(!layer) return;
+
+    panel.classList.remove('hidden');
+    let html = '';
+
+    if(layer.type === 'text') {
+        html += `
+            <div>
+                <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Text Content</label>
+                <textarea oninput="updateLayerProp('content', this.value)" class="w-full bg-slate-50 dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 rounded-xl p-2 text-xs dark:text-white outline-none">${layer.content}</textarea>
+            </div>
+            <div>
+                <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Font Size: ${layer.fontSize}px</label>
+                <input type="range" min="10" max="200" value="${layer.fontSize}" oninput="updateLayerProp('fontSize', this.value)" class="w-full accent-indigo-600">
+            </div>
+            <div>
+                <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Font Family</label>
+                <select onchange="updateLayerProp('fontFamily', this.value)" class="w-full bg-slate-50 dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 rounded-xl p-2 text-xs dark:text-white outline-none">
+                    ${document.getElementById('font-family').innerHTML}
+                </select>
+            </div>
+            <div class="grid grid-cols-2 gap-2">
+                <div>
+                    <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Color</label>
+                    <input type="color" value="${layer.color}" oninput="updateLayerProp('color', this.value)" class="w-full h-8 rounded-lg cursor-pointer">
+                </div>
+                <div>
+                    <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Opacity</label>
+                    <input type="range" min="0" max="100" value="${(layer.opacity || 1) * 100}" oninput="updateLayerProp('opacity', this.value/100)" class="w-full accent-indigo-600">
+                </div>
+            </div>
+        `;
+    } else if(layer.type === 'shape') {
+        html += `
+            <div>
+                <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Color</label>
+                <input type="color" value="${layer.color}" oninput="updateLayerProp('color', this.value)" class="w-full h-8 rounded-lg cursor-pointer">
+            </div>
+            <div class="grid grid-cols-2 gap-2">
+                <div>
+                    <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Radius (%)</label>
+                    <input type="range" min="0" max="50" value="${layer.borderRadius}" oninput="updateLayerProp('borderRadius', this.value)" class="w-full accent-indigo-600">
+                </div>
+                <div>
+                    <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Opacity</label>
+                    <input type="range" min="0" max="100" value="${(layer.opacity || 1) * 100}" oninput="updateLayerProp('opacity', this.value/100)" class="w-full accent-indigo-600">
+                </div>
+            </div>
+        `;
+    } else if(layer.type === 'image') {
+        html += `
+            <div>
+                <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Width: ${layer.width}px</label>
+                <input type="range" min="10" max="1000" value="${layer.width}" oninput="updateLayerProp('width', this.value)" class="w-full accent-indigo-600">
+            </div>
+            <div>
+                <label class="block text-[10px] font-bold text-slate-400 uppercase mb-1">Opacity</label>
+                <input type="range" min="0" max="100" value="${(layer.opacity || 1) * 100}" oninput="updateLayerProp('opacity', this.value/100)" class="w-full accent-indigo-600">
+            </div>
+        `;
+    }
+
+    controls.innerHTML = html;
+}
+
+window.updateLayerProp = function(prop, value) {
+    const layer = state.layers.find(l => l.id === state.selectedLayerId);
+    if(layer) {
+        layer[prop] = value;
+        const el = document.getElementById(layer.id);
+        if(el) {
+            if(prop === 'content') el.textContent = value;
+            if(prop === 'fontSize') el.style.fontSize = value + 'px';
+            if(prop === 'fontFamily') el.style.fontFamily = value;
+            if(prop === 'color') el.style[layer.type === 'text' ? 'color' : 'backgroundColor'] = value;
+            if(prop === 'borderRadius') el.style.borderRadius = value + '%';
+            if(prop === 'opacity') el.style.opacity = value;
+            if(prop === 'width') el.style.width = value + 'px';
+        }
+        updateLayersPanel();
+    }
+};
+
+// ==================== TOOLS ====================
+// These are handled by the dynamic layer system above
 
 // ==================== LOGO MANAGEMENT ====================
 window.handleLogoUpload = function(e) {
@@ -1007,13 +1279,20 @@ window.handleLogoUpload = function(e) {
     if(file) {
         const reader = new FileReader();
         reader.onload = (event) => {
-            const logoPreview = document.getElementById('logo-preview');
-            const logoLayer = document.getElementById('logo-layer');
-            logoPreview.src = event.target.result;
-            logoLayer.classList.remove('hidden');
-            // Reset position to visible area if hidden
-            logoLayer.style.top = '20px';
-            logoLayer.style.left = '20px';
+            const id = 'logo-' + Date.now();
+            state.layers.push({
+                id: id,
+                type: 'image',
+                name: 'Logo',
+                src: event.target.result,
+                x: 20, y: 20,
+                width: 100,
+                opacity: 1,
+                visible: true,
+                locked: false
+            });
+            renderNewLayer(state.layers[state.layers.length - 1]);
+            selectLayer(id);
             saveHistory();
         };
         reader.readAsDataURL(file);

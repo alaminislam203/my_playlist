@@ -1,0 +1,142 @@
+#EXTM3U
+
+# Playlist Name: Tata Play
+# Description: Professionally organized Tata Play channel list with categories and channel numbers.
+
+############################
+# Entertainment
+############################
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="1" tvg-name="&tv",1. &tv HD
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="2" tvg-name="Colors HD",2. Colors HD
+http://103.182.170.32:8888/play/a041
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="3" tvg-name="Star Plus",3. Star Plus
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="4" tvg-name="Star Plus HD",4. Star Plus HD
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="5" tvg-name="Sony SAB",5. Sony SAB
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="6" tvg-name="Zee TV",6. Zee TV
+http://103.182.170.32:8888/play/a03s
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="7" tvg-name="Zee TV HD",7. Zee TV HD
+http://103.182.170.32:8888/play/a04r
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="8" tvg-name="Star Bharat",8. Star Bharat
+http://103.182.170.32:8888/play/a02n
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="9" tvg-name="Star Bharat HD",9. Star Bharat HD
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="10" tvg-name="Star Jalsha HD",10. Star Jalsha HD
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="11" tvg-name="Zee Bangla HD",11. Zee Bangla HD
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="12" tvg-name="Sun Bangla",12. Sun Bangla
+http://103.182.170.32:8888/play/a01v
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="13" tvg-name="Star Pravah HD",13. Star Pravah HD
+http://103.182.170.32:8888/play/a04n
+
+############################
+# Movies
+############################
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="14" tvg-name="&flix HD",14. &flix HD
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="15" tvg-name="Colors Cineplex Bollywood",15. Colors Cineplex Bollywood
+http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="16" tvg-name="Colors Cineplex HD",16. Colors Cineplex HD
+http://103.182.170.32:8888/play/a04i
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="17" tvg-name="Movies Now HD",17. Movies Now HD
+http://103.182.170.32:8888/play/a01n
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="18" tvg-name="Sony MAX HD",18. Sony MAX HD
+http://103.182.170.32:8888/play/a04f
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="19" tvg-name="Sony MAX 2",19. Sony MAX 2
+http://103.182.170.32:8888/play/a02l
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="20" tvg-name="STAR GOLD HD",20. STAR GOLD HD
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="21" tvg-name="Star Gold 2",21. Star Gold 2
+http://103.182.170.32:8888/play/a02k
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="22" tvg-name="Star Gold 2 HD",22. Star Gold 2 HD
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="23" tvg-name="Zee Bollywood",23. Zee Bollywood
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="24" tvg-name="Zee Classic",24. Zee Classic
+http://103.182.170.32:8888/play/a054
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="25" tvg-name="Star Movies HD",25. Star Movies HD
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="26" tvg-name="Star Movies Select HD",26. Star Movies Select HD
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="27" tvg-name="Sony PIX HD",27. Sony PIX HD
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="28" tvg-name="Zee Bangla Cinema",28. Zee Bangla Cinema
+http://103.182.170.32:8888/play/a044
+
+############################
+# Sports
+############################
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="29" tvg-name="Star Sports 1",29. Star Sports 1
+http://103.182.170.32:8888/play/a03b
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="30" tvg-name="Star Sports 1 HD",30. Star Sports 1 HD
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="31" tvg-name="Star Sports 1 Hindi HD",31. Star Sports 1 Hindi HD
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="32" tvg-name="Star Sports 2 HD",32. Star Sports 2 HD
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="33" tvg-name="Star Sports Select 1 HD",33. Star Sports Select 1 HD
+http://103.182.170.32:8888/play/a045
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="34" tvg-name="Sony Sports Ten 1",34. Sony Sports Ten 1
+http://103.182.170.32:8888/play/a04j
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="35" tvg-name="Sony Sports Ten 3 HD",35. Sony Sports Ten 3 HD
+http://103.182.170.32:8888/play/a03a
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="36" tvg-name="Sony Sports Ten 4 HD",36. Sony Sports Ten 4 HD
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="37" tvg-name="Sports 18 1 HD",37. Sports 18 1 HD
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="38" tvg-name="Sports 18 3",38. Sports 18 3
+http://103.182.170.32:8888/play/a02i
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="39" tvg-name="TEN 2 HD",39. TEN 2 HD
+http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="40" tvg-name="SONY TEN 5 HD",40. SONY TEN 5 HD
+http://103.182.170.32:8888/play/a034
+
+############################
+# Kids
+############################
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="41" tvg-name="Cartoon Network",41. Cartoon Network
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="42" tvg-name="Cartoon Network HD+",42. Cartoon Network HD+
+http://103.182.170.32:8888/play/a035
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="43" tvg-name="Discovery Kids",43. Discovery Kids
+http://103.182.170.32:8888/play/a02o
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="44" tvg-name="Disney Channel",44. Disney Channel
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="45" tvg-name="Disney Junior",45. Disney Junior
+http://103.182.170.32:8888/play/a03q
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="46" tvg-name="ETV Bal Bharat",46. ETV Bal Bharat
+http://103.182.170.32:8888/play/a022
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="47" tvg-name="Hungama",47. Hungama
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="48" tvg-name="Nick",48. Nick
+http://103.182.170.32:8888/play/a04q
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="49" tvg-name="Nick Jr.",49. Nick Jr.
+http://103.182.170.32:8888/play/a02q
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="50" tvg-name="Pogo",50. Pogo
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="51" tvg-name="Sonic",51. Sonic
+http://103.182.170.32:8888/play/a02s
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="52" tvg-name="Sony YAY!",52. Sony YAY!
+http://103.182.170.32:8888/play/a04m
+
+############################
+# Infotainment / Knowledge
+############################
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="53" tvg-name="Animal Planet",53. Animal Planet
+http://103.182.170.32:8888/play/a049
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="54" tvg-name="BBC News",54. BBC News
+http://103.182.170.32:8888/play/a04k
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="55" tvg-name="Nat Geo Wild HD",55. Nat Geo Wild HD
+http://103.182.170.32:8888/play/a01r
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="56" tvg-name="TLC HD",56. TLC HD
+http://103.182.170.32:8888/play/a01q
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="57" tvg-name="Travelxp HD",57. Travelxp HD
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="58" tvg-name="MTV HD",58. MTV HD
+http://103.182.170.32:8888/play/a025
+#EXTINF:-1 group-title="Infotainment" tvg-logo="" tvg-id="59" tvg-name="Star Life HD",59. Star Life HD
+http://103.182.170.32:8888/play/a020

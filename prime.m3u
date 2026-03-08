@@ -1,8 +1,153 @@
-#EXTM3U
+#EXTM3U url-tvg="https://example.com/epg.xml"
+
 # Playlist Name: Prime TV (Professional Edition)
-# Description: A professionally organized and comprehensive IPTV playlist with categorized channels, channel numbers, and logos.
+# Version: 1.0.0
+# Description: A professionally organized IPTV playlist with categorized channels, channel numbers, and logos.
 # Author: Prime Network
-# Created on: 2026-03-05
-# Updated on: 2026-03-05
-# Total Channels: 800+
-# Note: This playlist is a curated compilation of publicly available streams. I do not host any content.
+# Created: 2026-03-05
+# Updated: 2026-03-08
+# Region: Global / South Asia
+# Total Channels: 59
+# Video Format: HLS / MPEG-TS
+# Codec: H.264 / AAC
+# Source: https://example.com/prime-tv.m3u
+# Contact: support@primenetwork.tv
+# Note: This playlist compiles publicly available streams. No content is hosted by the author.
+
+############################
+# Entertainment
+############################
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/%26TV_Logo.png" tvg-id="1",1. &tv HD
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" tvg-id="2",2. Colors HD
+http://103.182.170.32:8888/play/a041
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/StarPlus_Logo.png/1200px-StarPlus_Logo.png" tvg-id="3",3. Star Plus
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/StarPlus_Logo.png/1200px-StarPlus_Logo.png" tvg-id="4",4. Star Plus HD
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sony_SAB_logo.svg/1200px-Sony_SAB_logo.svg.png" tvg-id="5",5. Sony SAB
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/1200px-Zee_TV-2018.png" tvg-id="6",6. Zee TV
+http://103.182.170.32:8888/play/a03s
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/1200px-Zee_TV-2018.png" tvg-id="7",7. Zee TV HD
+http://103.182.170.32:8888/play/a04r
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Star_Bharat_logo.png/1200px-Star_Bharat_logo.png" tvg-id="8",8. Star Bharat
+http://103.182.170.32:8888/play/a02n
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Star_Bharat_logo.png/1200px-Star_Bharat_logo.png" tvg-id="9",9. Star Bharat HD
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/1200px-Star_Jalsha_logo_2023.png" tvg-id="10",10. Star Jalsha HD
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zee_Bangla_HD_2D_logo_%282017-present%29.png/1200px-Zee_Bangla_HD_2D_logo_%282017-present%29.png" tvg-id="11",11. Zee Bangla HD
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sun_Bangla_HD_logo_2023.png/1200px-Sun_Bangla_HD_logo_2023.png" tvg-id="12",12. Sun Bangla
+http://103.182.170.32:8888/play/a01v
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_Pravah_Logo.png/1200px-Star_Pravah_Logo.png" tvg-id="13",13. Star Pravah HD
+http://103.182.170.32:8888/play/a04n
+
+############################
+# Movies
+############################
+#EXTINF:-1 group-title="Movies" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png" tvg-id="14",14. &flix HD
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Colors_Cineplex_Bollywood_logo.png/1200px-Colors_Cineplex_Bollywood_logo.png" tvg-id="15",15. Colors Cineplex Bollywood
+http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Colors_Cineplex_Bollywood_logo.png/1200px-Colors_Cineplex_Bollywood_logo.png" tvg-id="16",16. Colors Cineplex HD
+http://103.182.170.32:8888/play/a04i
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png" tvg-id="17",17. Movies Now HD
+http://103.182.170.32:8888/play/a01n
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" tvg-id="18",18. Sony MAX HD
+http://103.182.170.32:8888/play/a04f
+#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldQuadjn_gMY5t5ZwVXXvYCuvEC1Q4nESQw&s" tvg-id="19",19. Sony MAX 2
+http://103.182.170.32:8888/play/a02l
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" tvg-id="20",20. STAR GOLD HD
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" tvg-id="21",21. Star Gold 2
+http://103.182.170.32:8888/play/a02k
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" tvg-id="22",22. Star Gold 2 HD
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/6QWJcgtm/images-removebg-preview.png" tvg-id="23",23. Zee Bollywood
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zee_Classic_logo.png/1200px-Zee_Classic_logo.png" tvg-id="24",24. Zee Classic
+http://103.182.170.32:8888/play/a054
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" tvg-id="25",25. Star Movies HD
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" tvg-id="26",26. Star Movies Select HD
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" tvg-id="27",27. Sony PIX HD
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Zee_bangla_cinema.png/1200px-Zee_bangla_cinema.png" tvg-id="28",28. Zee Bangla Cinema
+http://103.182.170.32:8888/play/a044
+
+############################
+# Sports
+############################
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/STAR_Sports_2_logo.png/1200px-STAR_Sports_2_logo.png" tvg-id="29",29. Star Sports 1
+http://103.182.170.32:8888/play/a03b
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/STAR_Sports_2_logo.png/1200px-STAR_Sports_2_logo.png" tvg-id="30",30. Star Sports 1 HD
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/STAR_Sports_2_logo.png/1200px-STAR_Sports_2_logo.png" tvg-id="31",31. Star Sports 1 Hindi HD
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/STAR_Sports_2_logo.png/1200px-STAR_Sports_2_logo.png" tvg-id="32",32. Star Sports 2 HD
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Star-sports-select-1.png/1200px-Star-sports-select-1.png" tvg-id="33",33. Star Sports Select 1 HD
+http://103.182.170.32:8888/play/a045
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sony_Sports_Ten_3.png/1200px-Sony_Sports_Ten_3.png" tvg-id="34",34. Sony Sports Ten 1
+http://103.182.170.32:8888/play/a04j
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sony_Sports_Ten_3.png/1200px-Sony_Sports_Ten_3.png" tvg-id="35",35. Sony Sports Ten 3 HD
+http://103.182.170.32:8888/play/a03a
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sony_Sports_Ten_5.png/1200px-Sony_Sports_Ten_5.png" tvg-id="36",36. Sony Sports Ten 4 HD
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sports18_logo.png/1200px-Sports18_logo.png" tvg-id="37",37. Sports 18 1 HD
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sports18_logo.png/1200px-Sports18_logo.png" tvg-id="38",38. Sports 18 3
+http://103.182.170.32:8888/play/a02i
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sony_Sports_Ten_5.png/1200px-Sony_Sports_Ten_5.png" tvg-id="39",39. TEN 2 HD
+http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sony_Sports_Ten_5.png/1200px-Sony_Sports_Ten_5.png" tvg-id="40",40. SONY TEN 5 HD
+http://103.182.170.32:8888/play/a034
+
+############################
+# Kids
+############################
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cartoon_Network_2010.svg/1200px-Cartoon_Network_2010.svg.png" tvg-id="41",41. Cartoon Network
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cartoon_Network_2010.svg/1200px-Cartoon_Network_2010.svg.png" tvg-id="42",42. Cartoon Network HD+
+http://103.182.170.32:8888/play/a035
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" tvg-id="43",43. Discovery Kids
+http://103.182.170.32:8888/play/a02o
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" tvg-id="44",44. Disney Channel
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" tvg-id="45",45. Disney Junior
+http://103.182.170.32:8888/play/a03q
+#EXTINF:-1 group-title="Kids" tvg-logo="http://172.19.178.178/tv/img/etvbalbharat.png" tvg-id="46",46. ETV Bal Bharat
+http://103.182.170.32:8888/play/a022
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" tvg-id="47",47. Hungama
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nickelodeon_2023_logo.png/1200px-Nickelodeon_2023_logo.png" tvg-id="48",48. Nick
+http://103.182.170.32:8888/play/a04q
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nick_Jr._logo_2023.svg/1200px-Nick_Jr._logo_2023.svg.png" tvg-id="49",49. Nick Jr.
+http://103.182.170.32:8888/play/a02q
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Pogo_TV_Logo.png" tvg-id="50",50. Pogo
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" tvg-id="51",51. Sonic
+http://103.182.170.32:8888/play/a02s
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" tvg-id="52",52. Sony YAY!
+http://103.182.170.32:8888/play/a04m
+
+############################
+# Infotainment
+############################
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" tvg-id="53",53. Animal Planet
+http://103.182.170.32:8888/play/a049
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/BBC_News_Logo.svg/1200px-BBC_News_Logo.svg.png" tvg-id="54",54. BBC News
+http://103.182.170.32:8888/play/a04k
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" tvg-id="55",55. Nat Geo Wild HD
+http://103.182.170.32:8888/play/a01r
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" tvg-id="56",56. TLC HD
+http://103.182.170.32:8888/play/a01q
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png" tvg-id="57",57. Travelxp HD
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/MTV_2021_%283D%29_%28Print%29.svg/1200px-MTV_2021_%283D%29_%28Print%29.svg.png" tvg-id="58",58. MTV HD
+http://103.182.170.32:8888/play/a025
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" tvg-id="59",59. Star Life HD
+http://103.182.170.32:8888/play/a020

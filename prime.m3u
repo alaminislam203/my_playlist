@@ -462,3 +462,41 @@ http://103.180.212.191:3500/live/541.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png" tvg-id="159",159. DD Hindi
 http://103.180.212.191:3500/live/543.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png" tvg-id="160",160. DD Hindi
+http://103.180.212.191:3500/live/540.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png" tvg-id="161",161. DD Tamil
+http://103.180.212.191:3500/live/539.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/DD_News_logo.png" tvg-id="162",162. DD News
+http://103.180.212.191:3500/live/538.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Sangeet_Bangla_logo.png" tvg-id="163",163. Sangeet Bangla
+http://103.180.212.191:3500/live/740.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Bhojpuri_logo.png" tvg-id="164",164. Bhojpuri Channel
+http://103.180.212.191:3500/live/741.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/MH_One_logo.png" tvg-id="165",165. MH One
+http://103.180.212.191:3500/live/742.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Udaya_Music_logo.png" tvg-id="166",166. Udaya Music
+http://103.180.212.191:3500/live/744.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Colors_Bangla_logo.png" tvg-id="167",167. Colors Bangla HD
+http://103.180.212.191:3500/live/756.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Assamese_logo.png" tvg-id="168",168. Asam Bangla
+http://103.180.212.191:3500/live/765.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Colors_Super_logo.png" tvg-id="169",169. Colors Super
+http://103.180.212.191:3500/live/785.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Colors_Super_logo.png" tvg-id="170",170. Kanappa TV
+http://103.180.212.191:3500/live/785.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Sun_Music_logo.png" tvg-id="171",171. Sun Music
+http://103.180.212.191:3500/live/895.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Sun_TV_logo.png" tvg-id="172",172. Sun TV
+http://103.180.212.191:3500/live/894.m3u8

@@ -336,3 +336,129 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" tvg-id="116",116. Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Arabic_calligraphy.png" tvg-id="117",117. Arabic Channel
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/DBC_News_logo.png" tvg-id="118",118. DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Channel_9_Bangladesh_logo.png" tvg-id="119",119. Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Sony_SAB_logo.png" tvg-id="120",120. Sony SAB
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_Max_logo.png" tvg-id="121",121. Sony MAX
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Star_Gold_logo.png" tvg-id="122",122. Star Gold
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Zee_Cinema_logo.png" tvg-id="123",123. Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Sony_Ten_logo.png" tvg-id="124",124. Sony Ten 3
+http://103.99.249.139/sonyten3/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sony_Yay_logo.png" tvg-id="125",125. Sony Yay
+http://103.99.249.139/sonyyay/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" tvg-id="126",126. Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Deepto_TV_logo.png" tvg-id="127",127. Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bangla_Vision_logo.png" tvg-id="128",128. Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" tvg-id="129",129. BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Hum_TV_logo.png" tvg-id="130",130. HUM TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/NTV_Bangladesh_logo.png" tvg-id="131",131. NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" tvg-id="132",132. ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" tvg-id="133",133. Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" tvg-id="134",134. Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/DBC_News_logo.png" tvg-id="135",135. DBC News
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" tvg-id="136",136. Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" tvg-id="137",137. Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" tvg-id="138",138. Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" tvg-id="139",139. Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" tvg-id="140",140. Jamuna TV (Backup)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" tvg-id="141",141. ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" tvg-id="142",142. ATN Bangla (Backup)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" tvg-id="143",143. Channel I (Backup)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Duronto_TV_logo.png" tvg-id="144",144. Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg" tvg-id="145",145. ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ekushey_Television_Logo.png" tvg-id="146",146. Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png" tvg-id="147",147. Nick Bangla
+http://103.180.212.191:3500/live/1341.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png" tvg-id="148",148. Nick Hindi
+http://103.180.212.191:3500/live/545.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png" tvg-id="149",149. Nick Telugu
+http://103.180.212.191:3500/live/1342.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png" tvg-id="150",150. Nick Marathi
+http://103.180.212.191:3500/live/1340.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png" tvg-id="151",151. Sonic Bangla
+http://103.180.212.191:3500/live/1345.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png" tvg-id="152",152. Sonic
+http://103.180.212.191:3500/live/815.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png" tvg-id="153",153. Sonic Tamil
+http://103.180.212.191:3500/live/1344.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png" tvg-id="154",154. Sonic Telugu
+http://103.180.212.191:3500/live/1346.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png" tvg-id="155",155. Sonic Hindi
+http://103.180.212.191:3500/live/1343.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Nick_Jr_logo.png" tvg-id="156",156. Nick Jr Hindi
+http://103.180.212.191:3500/live/544.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Pogo_logo.png" tvg-id="157",157. Pogo
+http://103.180.212.191:3500/live/542.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Discovery_Turbo_logo.png" tvg-id="158",158. Discovery Turbo
+http://103.180.212.191:3500/live/541.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png" tvg-id="159",159. DD Hindi
+http://103.180.212.191:3500/live/543.m3u8

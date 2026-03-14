@@ -14,361 +14,483 @@
 # Contact: support@primenetwork.tv
 # Note: This playlist compiles publicly available streams. No content is hosted by the author.
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Gs90IEA.png", 1. &tv HD
+#EXTINF:0, 1. &tv HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03v
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png", 2. Colors HD
+#EXTINF:0, 2. Colors HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a041
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png", 3. Star Plus
+#EXTINF:0, 3. Star Plus
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03o
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://nettv.com.np/wp-content/uploads/2024/12/starplushd.png", 4. Star Plus HD
+#EXTINF:0, 4. Star Plus HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03z
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/SONY_SAB_SD_Logo_2022.png", 5. Sony SAB
+#EXTINF:0, 5. Sony SAB
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/1200px-Zee_TV-2018.png", 6. Zee TV
-http://103.182.170.32:8888/play/a03s
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/1200px-Zee_TV-2018.png", 7. Zee TV HD
+#EXTINF:0, 7. Zee TV HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04r
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Star_Bharat_Logo.png/250px-Star_Bharat_Logo.png", 8. Star Bharat
+#EXTINF:0, 8. Star Bharat
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02n
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/SQ8XkXAuBoN16kbfyNXNzi_mMl-9TjRULTLz_Iqdgze4QH9za7grZSb5csVRD6O7tu4", 9. Star Bharat HD
-http://103.182.170.32:8888/play/a033
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/1200px-Star_Jalsha_logo_2023.png", 10. Star Jalsha HD
+#EXTINF:0, 10. Star Jalsha HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a046
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg", 11. Zee Bangla HD
+#EXTINF:0, 11. Zee Bangla HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a048
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sun_Bangla_Logo_2026_01.png", 12. Sun Bangla
+#EXTINF:0, 12. Sun Bangla
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01v
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Star_Pravah_2023.png", 13. Star Pravah HD
+#EXTINF:0, 13. Star Pravah HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04n
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%26flix_HD_Leap_forth.svg", 14. &flix HD
+#EXTINF:0, 14. &flix HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02a
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Colors_Cineplex_Black.png", 15. Colors Cineplex Bollywood
+#EXTINF:0, 15. Colors Cineplex Bollywood
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Colors_Cineplex_Black.png", 16. Colors Cineplex HD
+#EXTINF:0, 16. Colors Cineplex HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04i
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png", 17. Movies Now HD
+#EXTINF:0, 17. Movies Now HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01n
-#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/30e39fbb06e4afabaca332226f910365.png", 18. Sony MAX HD
+#EXTINF:0, 18. Sony MAX HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04f
-#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldQuadjn_gMY5t5ZwVXXvYCuvEC1Q4nESQw&s", 19. Sony MAX 2
+#EXTINF:0, 19. Sony MAX 2
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02l
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg", 20. STAR GOLD HD
+#EXTINF:0, 20. STAR GOLD HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02j
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg", 21. Star Gold 2
+#EXTINF:0, 21. Star Gold 2
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02k
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg", 22. Star Gold 2 HD
+#EXTINF:0, 22. Star Gold 2 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01z
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/6QWJcgtm/images-removebg-preview.png", 23. Zee Bollywood
+#EXTINF:0, 23. Zee Bollywood
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02r
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/zee-classic-color.png", 24. Zee Classic
+#EXTINF:0, 24. Zee Classic
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a054
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", 25. Star Movies HD
+#EXTINF:0, 25. Star Movies HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a029
-#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png", 26. Star Movies Select HD
+#EXTINF:0, 26. Star Movies Select HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a028
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", 27. Sony PIX HD
+#EXTINF:0, 27. Sony PIX HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a027
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ytimg.com/vi/uJJaKXtOqsw/maxresdefault.jpg", 28. Zee Bangla Sonar
+#EXTINF:0, 28. Zee Bangla Sonar
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a044
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", 29. Star Sports 1
+#EXTINF:0, 29. Star Sports 1
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03b
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", 30. Star Sports 1 HD
+#EXTINF:0, 30. Star Sports 1 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a040
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vhv.rs/dpng/d/29-291666_star-sports-1-hindi-hd-png-download.png", 31. Star Sports 1 Hindi HD
+#EXTINF:0, 31. Star Sports 1 Hindi HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04e
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg", 32. Star Sports 2 HD
+#EXTINF:0, 32. Star Sports 2 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03e
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp", 33. Star Sports Select 1 HD
+#EXTINF:0, 33. Star Sports Select 1 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a045
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png", 34. Sony Sports Ten 1
+#EXTINF:0, 34. Sony Sports Ten 1
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04j
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png", 35. Sony Sports Ten 3 HD
+#EXTINF:0, 35. Sony Sports Ten 3 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03a
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/", 36. Sony Sports Ten 4 HD
+#EXTINF:0, 36. Sony Sports Ten 4 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a036
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg", 37. Sports 18 1 HD
+#EXTINF:0, 37. Sports 18 1 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04p
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg", 38. Sports 18 3
+#EXTINF:0, 38. Sports 18 3
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02i
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", 39. TEN 2 HD
+#EXTINF:0,q_75 - f_webp/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", 39. TEN 2 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a026
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png", 40. SONY TEN 5 HD
+#EXTINF:0, 40. SONY TEN 5 HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a034
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", 41. Cartoon Network
+#EXTINF:0, 41. Cartoon Network
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04o
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", 42. Cartoon Network HD+
-http://103.182.170.32:8888/play/a035
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", 43. Discovery Kids
+#EXTINF:0, 43. Discovery Kids
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02o
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg", 44. Disney Channel
+#EXTINF:0, 44. Disney Channel
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png", 45. Disney Junior
+#EXTINF:0, 45. Disney Junior
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/250px-Hungama_TV.svg.png", 47. Hungama
-http://103.182.170.32:8888/play/a04b
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nickelodeon_2023_logo.png/1200px-Nickelodeon_2023_logo.png", 48. Nick
+#EXTINF:0, 48. Nick
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg", 49. Nick Jr.
+#EXTINF:0, 49. Nick Jr.
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02q
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/", 50. Pogo
+#EXTINF:0, 50. Pogo
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ffc94165e3ccffde2ade859502f5d995.png", 51. Sonic
+#EXTINF:0, 51. Sonic
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a02s
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/SONY_YAY_2022_Logo.png", 52. Sony YAY!
+#EXTINF:0, 52. Sony YAY!
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04m
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", 53. Animal Planet
+#EXTINF:0, 53. Animal Planet
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a049
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/BBC_News_Logo.svg/1200px-BBC_News_Logo.svg.png", 54. BBC News
+#EXTINF:0, 54. BBC News
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a04k
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", 55. Nat Geo Wild HD
+#EXTINF:0, 55. Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01r
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", 56. TLC HD
+#EXTINF:0, 56. TLC HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01q
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png", 57. Travelxp HD
+#EXTINF:0, 57. Travelxp HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a01x
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/MTV_2021_%283D%29_%28Print%29.svg/1200px-MTV_2021_%283D%29_%28Print%29.svg.png", 58. MTV HD
+#EXTINF:0, 58. MTV HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a025
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png", 59. Star Life HD
+#EXTINF:0, 59. Star Life HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a020
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png", 60. Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png", Deshi TV (Backup)
+#EXTINF:87, Deshi TV (Backup)
+#EXTVLCOPT:network-caching=1000
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Film_reel_icon.png", 61. Antarjal
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Deepto_TV_logo.png", 62. Deepto TV HD
+#EXTINF:28, 62. Deepto TV HD
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bangla_Vision_logo.png", 63. Bangla Vision
+#EXTINF:0, 63. Bangla Vision
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png", 64. BTV
+#EXTINF:0, 64. BTV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Hum_TV_logo.png", 65. HUM TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/NTV_Bangladesh_logo.png", 66. NTV
+#EXTINF:32, 66. NTV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png", 67. ATN Bangla
+#EXTINF:28, 67. ATN Bangla
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg", ATN Bangla UK
+#EXTINF:0, ATN Bangla UK
+#EXTVLCOPT:network-caching=1000
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png", 68. Channel I HD
+#EXTINF:0, 68. Channel I HD
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png", 69. Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png", 70. Channel 24
+#EXTINF:0, 70. Channel 24
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png", 71. Independent TV
+#EXTINF:0, 71. Independent TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png", 72. Ekattor TV
+#EXTINF:0, 72. Ekattor TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png", 73. Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png", 74. ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/DBC_News_logo.png", 75. DBC News
+#EXTINF:24, 75. DBC News
+#EXTVLCOPT:network-caching=1000
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Duronto_TV_logo.png", 76. Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ekushey_Television_Logo.png", 77. Ekushey TV
+#EXTINF:48, 77. Ekushey TV
+#EXTVLCOPT:network-caching=1000
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png", 78. Nick Bangla
+#EXTINF:60, 78. Nick Bangla
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1341.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SRK_Logo.png", 79. SRKTV
+#EXTINF:24, 79. SRKTV
+#EXTVLCOPT:network-caching=1000
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/T_Sports_logo.png", 80. T Sports
+#EXTINF:24, 80. T Sports
+#EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/Tsports/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/T_Sports_logo.png", T Sports (Backup)
+#EXTINF:24, T Sports (Backup)
+#EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Nagorik_TV_logo.png", 81. Nagorik TV
+#EXTINF:24, 81. Nagorik TV
+#EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png", 82. Willow
+#EXTINF:20, 82. Willow
+#EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png", Willow Cricket FHD
-https://a1xs.vip/40000042
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/GTV_logo.png", 83. Gazi TV (GTV)
+#EXTINF:24,GAZI TV HD
+#EXTVLCOPT:network-caching=1000
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png", 84. Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/STAR_Sports_2_logo.png", 85. Star Sports 2
+#EXTINF:16,Star Sports 2 Hindi HD - Rs 19.00
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/starsport2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/STAR_Sports_2_logo.png", Star Sports 2 (Backup)
+#EXTINF:16,Star Sports 2 Hindi HD - Rs 19.00
+#EXTVLCOPT:network-caching=1000
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/STAR_Sports_2_logo.png", 86. Star Sports 1
-http://103.99.249.139/starsport1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/STAR_Sports_2_logo.png", Star Sports 1 HD
+#EXTINF:11,Star Sports 1 HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Star_Sports_logo.png", 87. Star Sports Hindi
-http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Star_Sports_logo.png", Star Sports 1 Hindi
+#EXTINF:63, Star Sports 1 Hindi
+#EXTVLCOPT:network-caching=1000
 https://starsportshindiii.pages.dev/360p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Sky_Sports_logo.png", 88. Sky Sports
+#EXTINF:48, 88. Sky Sports
+#EXTVLCOPT:network-caching=1000
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Star_Gold_logo.png", 89. Star Gold 2 HD
+#EXTINF:11, 89. Star Gold 2 HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Star_Gold_logo.png", 90. Star Gold HD
+#EXTINF:11,STAR GOLD HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Star_Gold_logo.png", Star Gold
-http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png", 91. Me TV
+#EXTINF:77, 91. Me TV
+#EXTVLCOPT:network-caching=1000
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Sony_SAB_logo.png", 92. Sony SAB
+#EXTINF:24, 92. Sony SAB
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_Max_logo.png", 93. Sony MAX
+#EXTINF:24, 93. Sony MAX
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Zee_Cinema_logo.png", 94. Zee Cinema
+#EXTINF:24, 94. Zee Cinema
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Sony_Ten_logo.png", 95. Sony Ten 3
+#EXTINF:22, 95. Sony Ten 3
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sony_Yay_logo.png", 96. Sony Yay
+#EXTINF:24, 96. Sony Yay
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Star_Jalsha_logo.png", 97. Star Jalsha HD
+#EXTINF:0, 97. Star Jalsha HD
+#EXTVLCOPT:network-caching=1000
 http://103.182.170.32:8888/play/a046
-#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Madani_Channel_logo.png", 98. Madani TV FHD
+#EXTINF:0, 98. Madani TV FHD
+#EXTVLCOPT:network-caching=1000
 http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Bhi_Channel_logo.png", 99. Bhi Channel
+#EXTINF:30, 99. Bhi Channel
+#EXTVLCOPT:network-caching=1000
 http://15.235.185.236/hls/bhi.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png", 100. Jamuna TV
+#EXTINF:32, 100. Jamuna TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png", 101. Somoy TV
+#EXTINF:0, 101. Somoy TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png", 102. Channel 24
+#EXTINF:0, 102. Channel 24
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png", 103. Independent TV
+#EXTINF:32, 103. Independent TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png", 104. Ekattor TV
+#EXTINF:31, 104. Ekattor TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png", 105. ATN News
+#EXTINF:28, 105. ATN News
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/News24_Bangladesh_logo.png", 106. News 24
+#EXTINF:28, 106. News 24
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png", 107. BTV HD
+#EXTINF:32, 107. BTV HD
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Star_News_logo.png", 108. Star News
+#EXTINF:32, 108. Star News
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Deepto_TV_logo.png", 109. Deepto TV HD
+#EXTINF:32, 109. Deepto TV HD
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Ekhon_TV_logo.png", 110. Ekhon TV
+#EXTINF:28, 110. Ekhon TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bangla_Vision_logo.png", 111. Bangla Vision
+#EXTINF:32, 111. Bangla Vision
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/NTV_Bangladesh_logo.png", 112. NTV
+#EXTINF:32, 112. NTV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/SATV_logo.png", 113. SATV
+#EXTINF:28, 113. SATV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Al_Jazeera_logo.png", 114. Al Jazeera
+#EXTINF:32, 114. Al Jazeera
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png", 115. ATN Bangla
+#EXTINF:32, 115. ATN Bangla
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png", 116. Channel I
+#EXTINF:32, 116. Channel I
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Arabic_calligraphy.png", 117. Arabic Channel
+#EXTINF:32, 117. Arabic Channel
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/DBC_News_logo.png", 118. DBC News
+#EXTINF:32, 118. DBC News
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Channel_9_Bangladesh_logo.png", 119. Channel 9
+#EXTINF:32, 119. Channel 9
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Sony_SAB_logo.png", 120. Sony SAB
+#EXTINF:24, 120. Sony SAB
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_Max_logo.png", 121. Sony MAX
+#EXTINF:24, 121. Sony MAX
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Star_Gold_logo.png", 122. Star Gold
+#EXTINF:24, 122. Star Gold
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Zee_Cinema_logo.png", 123. Zee Cinema
+#EXTINF:24, 123. Zee Cinema
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Sony_Ten_logo.png", 124. Sony Ten 3
+#EXTINF:22, 124. Sony Ten 3
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sony_Yay_logo.png", 125. Sony Yay
+#EXTINF:24, 125. Sony Yay
+#EXTVLCOPT:network-caching=1000
 http://103.99.249.139/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png", 126. Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Deepto_TV_logo.png", 127. Deepto TV HD
+#EXTINF:28, 127. Deepto TV HD
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bangla_Vision_logo.png", 128. Bangla Vision
+#EXTINF:31, 128. Bangla Vision
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png", 129. BTV
+#EXTINF:28, 129. BTV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Hum_TV_logo.png", 130. HUM TV
+#EXTINF:28, 130. HUM TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/NTV_Bangladesh_logo.png", 131. NTV
+#EXTINF:28, 131. NTV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png", 132. ATN Bangla
+#EXTINF:32, 132. ATN Bangla
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png", 133. Channel I HD
+#EXTINF:28, 133. Channel I HD
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png", 134. Jamuna TV
+#EXTINF:28, 134. Jamuna TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/DBC_News_logo.png", 135. DBC News
+#EXTINF:24, 135. DBC News
+#EXTVLCOPT:network-caching=1000
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png", 136. Somoy TV
+#EXTINF:28, 136. Somoy TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png", 137. Channel 24
+#EXTINF:31, 137. Channel 24
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png", 138. Independent TV
+#EXTINF:32, 138. Independent TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png", 139. Ekattor TV
+#EXTINF:32, 139. Ekattor TV
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png", 140. Jamuna TV (Backup)
+#EXTINF:32, 140. Jamuna TV (Backup)
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png", 141. ATN News
+#EXTINF:28, 141. ATN News
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png", 142. ATN Bangla (Backup)
+#EXTINF:32, 142. ATN Bangla (Backup)
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png", 143. Channel I (Backup)
+#EXTINF:28, 143. Channel I (Backup)
+#EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Duronto_TV_logo.png", 144. Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg", 145. ATN Bangla UK
+#EXTINF:24, 145. ATN Bangla UK
+#EXTVLCOPT:network-caching=1000
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ekushey_Television_Logo.png", 146. Ekushey TV
+#EXTINF:48, 146. Ekushey TV
+#EXTVLCOPT:network-caching=1000
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png", 147. Nick Bangla
+#EXTINF:0, 147. Nick Bangla
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1341.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png", 148. Nick Hindi
+#EXTINF:0, 148. Nick Hindi
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/545.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png", 149. Nick Telugu
+#EXTINF:56, 149. Nick Telugu
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1342.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Nickelodeon_logo.png", 150. Nick Marathi
+#EXTINF:60, 150. Nick Marathi
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1340.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png", 151. Sonic Bangla
+#EXTINF:60, 151. Sonic Bangla
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png", 152. Sonic
+#EXTINF:60, 152. Sonic
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/815.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png", 153. Sonic Tamil
+#EXTINF:60, 153. Sonic Tamil
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1344.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png", 154. Sonic Telugu
+#EXTINF:60, 154. Sonic Telugu
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/1346.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Sonic_Nick_logo.png", 155. Sonic Hindi
-http://103.180.212.191:3500/live/1343.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Nick_Jr_logo.png", 156. Nick Jr Hindi
+#EXTINF:66, 156. Nick Jr Hindi
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/544.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Pogo_logo.png", 157. Pogo
+#EXTINF:57, 157. Pogo
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/542.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Discovery_Turbo_logo.png", 158. Discovery Turbo
+#EXTINF:60, 158. Discovery Turbo
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/541.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png", 159. DD Hindi
+#EXTINF:56, 159. DD Hindi
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/543.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png", 160. DD Hindi
+#EXTINF:56, 160. DD Hindi
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/540.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/DD_National_logo.png", 161. DD Tamil
+#EXTINF:54, 161. DD Tamil
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/539.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/DD_News_logo.png", 162. DD News
+#EXTINF:60, 162. DD News
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/538.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Sangeet_Bangla_logo.png", 163. Sangeet Bangla
+#EXTINF:60, 163. Sangeet Bangla
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/740.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Bhojpuri_logo.png", 164. Bhojpuri Channel
+#EXTINF:60, 164. Bhojpuri Channel
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/741.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/MH_One_logo.png", 165. MH One
+#EXTINF:56, 165. MH One
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/742.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Udaya_Music_logo.png", 166. Udaya Music
+#EXTINF:60, 166. Udaya Music
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/744.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Colors_Bangla_logo.png", 167. Colors Bangla HD
+#EXTINF:1796, 167. Colors Bangla HD
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/756.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Assamese_logo.png", 168. Asam Bangla
+#EXTINF:60, 168. Asam Bangla
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/765.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Colors_Super_logo.png", 169. Colors Super
+#EXTINF:1800, 169. Colors Super
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/785.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Colors_Super_logo.png", 170. Kanappa TV
+#EXTINF:1796, 170. Kanappa TV
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/785.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Sun_Music_logo.png", 171. Sun Music
+#EXTINF:56, 171. Sun Music
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/895.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Sun_TV_logo.png", 172. Sun TV
+#EXTINF:56, 172. Sun TV
+#EXTVLCOPT:network-caching=1000
 http://103.180.212.191:3500/live/894.m3u8

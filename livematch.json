@@ -1,10 +1,23 @@
-
 [
-    {
-        "name": "Bangladesh vs India",
-        "category": "Live Match",
-        "status": "Live 75'",
-        "url": "http://example.com/stream.m3u8",
-        "logo": "https://img.icons8.com/color/96/football.png"
-    }
+  {
+    "name": "IPL 2024: CSK vs MI",
+    "url": "https://example.com/live/ipl1.m3u8",
+    "logo": "https://example.com/logos/ipl.png",
+    "category": "Cricket",
+    "status": "live"
+  },
+  {
+    "name": "Premier League: MCI vs LIV",
+    "url": "https://example.com/live/epl1.m3u8",
+    "logo": "https://example.com/logos/epl.png",
+    "category": "Sports",
+    "status": "upcoming"
+  },
+  {
+    "name": "NBA: Lakers vs Warriors",
+    "url": "https://example.com/live/nba1.m3u8",
+    "logo": "https://example.com/logos/nba.png",
+    "category": "Basketball",
+    "status": "finished"
+  }
 ]

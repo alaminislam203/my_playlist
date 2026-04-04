@@ -122,3 +122,306 @@ http://103.180.212.191:3500/live/573.m3u8
 
 #EXTINF:-1 tvg-id="T20Cricket" tvg-name="T20 Cricket Live (Rutube)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="লাইভ স্পোর্টস ইভেন্ট", T20 Cricket Live
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+
+#EXTINF:-1 tvg-id="AndTV" tvg-name="&TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%26TV_Logo.png" group-title="Indian Entertainment (Hindi)", &TV HD
+http://103.182.170.32:8888/play/a03v
+
+#EXTINF:-1 tvg-id="ColorsTV" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Colors_TV_Logo.png" group-title="Indian Entertainment (Hindi)", Colors HD
+http://103.182.170.32:8888/play/a041
+
+#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/StarPlus_Logo.png" group-title="Indian Entertainment (Hindi)", Star Plus
+http://103.182.170.32:8888/play/a03o
+
+#EXTINF:-1 tvg-id="StarPlusHD" tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/StarPlus_Logo.png" group-title="Indian Entertainment (Hindi)", Star Plus HD
+http://103.182.170.32:8888/play/a03z
+
+#EXTINF:-1 tvg-id="SonySAB" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sony_SAB_Logo.png" group-title="Indian Entertainment (Hindi)", Sony SAB
+http://103.182.170.32:8888/play/a03r
+
+#EXTINF:-1 tvg-id="ZeeTV" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Zee_TV_Logo.png" group-title="Indian Entertainment (Hindi)", Zee TV HD
+http://103.182.170.32:8888/play/a04r
+
+#EXTINF:-1 tvg-id="StarBharat" tvg-name="Star Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Star_Bharat_Logo.png" group-title="Indian Entertainment (Hindi)", Star Bharat
+http://103.182.170.32:8888/play/a02n
+
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Star_Jalsha_Logo.png" group-title="Indian Entertainment (Bangla)", Star Jalsha HD
+http://103.182.170.32:8888/play/a046
+
+#EXTINF:-1 tvg-id="ZeeBangla" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Zee_Bangla_Logo.png" group-title="Indian Entertainment (Bangla)", Zee Bangla HD
+http://103.182.170.32:8888/play/a048
+
+#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Sun_TV_Network_Logo.png" group-title="Indian Entertainment (Bangla)", Sun Bangla
+http://103.182.170.32:8888/play/a01v
+
+#EXTINF:-1 tvg-id="StarPravah" tvg-name="Star Pravah HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Star_Pravah_Logo.png" group-title="Indian Entertainment (Marathi)", Star Pravah HD
+http://103.182.170.32:8888/play/a04n
+
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Colors_Bangla_Logo.png" group-title="Indian Entertainment (Bangla)", Colors Bangla HD
+http://103.180.212.191:3500/live/756.m3u8
+
+#EXTINF:-1 tvg-id="ColorsSuper" tvg-name="Colors Super" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Colors_TV_Logo.png" group-title="Indian Entertainment (Hindi)", Colors Super
+http://103.180.212.191:3500/live/785.m3u8
+
+#EXTINF:-1 tvg-id="SunTV" tvg-name="Sun TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Sun_TV_Network_Logo.png" group-title="Indian Entertainment (Tamil)", Sun TV
+http://103.180.212.191:3500/live/894.m3u8
+
+#EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Sun_TV_Network_Logo.png" group-title="Indian Music Channels", Sun Music
+http://103.180.212.191:3500/live/895.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Indian Music Channels", Sangeet Bangla
+http://103.180.212.191:3500/live/740.m3u8
+
+#EXTINF:-1 tvg-id="MhOne" tvg-name="MH One" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Indian Music Channels", MH One
+http://103.180.212.191:3500/live/742.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla" tvg-name="DD Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Doordarshan_Logo.svg" group-title="Indian National Channels", DD Bangla
+http://103.180.212.191:3500/live/543.m3u8
+
+#EXTINF:-1 tvg-id="DDNews" tvg-name="DD News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Doordarshan_Logo.svg" group-title="Indian National Channels", DD News
+http://103.180.212.191:3500/live/538.m3u8
+
+#EXTINF:-1 tvg-id="DDTamil" tvg-name="DD Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Doordarshan_Logo.svg" group-title="Indian National Channels", DD Tamil
+http://103.180.212.191:3500/live/539.m3u8
+
+#EXTINF:-1 tvg-id="UdayaMusic" tvg-name="Udaya Music" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Indian Music Channels", Udaya Music
+http://103.180.212.191:3500/live/744.m3u8
+
+#EXTINF:-1 tvg-id="AsamBangla" tvg-name="Asam Bangla" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Regional Indian Channels", Asam Bangla
+http://103.180.212.191:3500/live/765.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriChannel" tvg-name="Bhojpuri Channel" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Regional Indian Channels", Bhojpuri Channel
+http://103.180.212.191:3500/live/741.m3u8
+
+#EXTINF:-1 tvg-id="AndFlix" tvg-name="&flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%26TV_Logo.png" group-title="Indian Movie Channels", &flix HD
+http://103.182.170.32:8888/play/a02a
+
+#EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Colors_TV_Logo.png" group-title="Indian Movie Channels", Colors Cineplex Bollywood
+http://103.182.170.32:8888/play/a01o
+
+#EXTINF:-1 tvg-id="ColorsCineplexHD" tvg-name="Colors Cineplex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Colors_TV_Logo.png" group-title="Indian Movie Channels", Colors Cineplex HD
+http://103.182.170.32:8888/play/a04i
+
+#EXTINF:-1 tvg-id="MoviesNow" tvg-name="Movies Now HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Movies_Now_Logo.png" group-title="Indian Movie Channels", Movies Now HD
+http://103.182.170.32:8888/play/a01n
+
+#EXTINF:-1 tvg-id="SonyMAX" tvg-name="Sony MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Sony_Max_Logo.png" group-title="Indian Movie Channels", Sony MAX HD
+http://103.182.170.32:8888/play/a04f
+
+#EXTINF:-1 tvg-id="SonyMAX2" tvg-name="Sony MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Sony_Max_Logo.png" group-title="Indian Movie Channels", Sony MAX 2
+http://103.182.170.32:8888/play/a02l
+
+#EXTINF:-1 tvg-id="StarGold" tvg-name="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Star_Gold_Logo.png" group-title="Indian Movie Channels", STAR GOLD HD
+http://103.182.170.32:8888/play/a02j
+
+#EXTINF:-1 tvg-id="StarGold2" tvg-name="Star Gold 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Star_Gold_Logo.png" group-title="Indian Movie Channels", Star Gold 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBollywood" tvg-name="Zee Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Zee_TV_Logo.png" group-title="Indian Movie Channels", Zee Bollywood
+http://103.182.170.32:8888/play/a02r
+
+#EXTINF:-1 tvg-id="ZeeClassic" tvg-name="Zee Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Zee_TV_Logo.png" group-title="Indian Movie Channels", Zee Classic
+http://103.182.170.32:8888/play/a054
+
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Star_Movies_Logo.png" group-title="English Movie Channels", Star Movies HD
+http://103.182.170.32:8888/play/a029
+
+#EXTINF:-1 tvg-id="StarMoviesSelect" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Star_Movies_Logo.png" group-title="English Movie Channels", Star Movies Select HD
+http://103.182.170.32:8888/play/a028
+
+#EXTINF:-1 tvg-id="SonyPIX" tvg-name="Sony PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Sony_PIX_Logo.png" group-title="English Movie Channels", Sony PIX HD
+http://103.182.170.32:8888/play/a027
+
+#EXTINF:-1 tvg-id="StarSports1" tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Indian Sports Channels", Star Sports 1
+http://103.182.170.32:8888/play/a03b
+
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Indian Sports Channels", Star Sports 1 HD
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1Hindi" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Indian Sports Channels", Star Sports 1 Hindi HD
+http://103.182.170.32:8888/play/a04e
+
+#EXTINF:-1 tvg-id="StarSports2" tvg-name="Star Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Star_Sports_2_Logo.png" group-title="Indian Sports Channels", Star Sports 2 HD
+http://103.182.170.32:8888/play/a03e
+
+#EXTINF:-1 tvg-id="StarSportsSelect1" tvg-name="Star Sports Select 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Indian Sports Channels", Star Sports Select 1 HD
+http://103.182.170.32:8888/play/a045
+
+#EXTINF:-1 tvg-id="SonySportsTen1" tvg-name="Sony Sports Ten 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Indian Sports Channels", Sony Sports Ten 1
+http://103.182.170.32:8888/play/a04j
+
+#EXTINF:-1 tvg-id="SonySportsTen3" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Indian Sports Channels", Sony Sports Ten 3 HD
+http://103.182.170.32:8888/play/a03a
+
+#EXTINF:-1 tvg-id="SonySportsTen4" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Indian Sports Channels", Sony Sports Ten 4 HD
+http://103.182.170.32:8888/play/a036
+
+#EXTINF:-1 tvg-id="Sports18" tvg-name="Sports 18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Sports18_Logo.png" group-title="Indian Sports Channels", Sports 18 1 HD
+http://103.182.170.32:8888/play/a04p
+
+#EXTINF:-1 tvg-id="Sports183" tvg-name="Sports 18 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Sports18_Logo.png" group-title="Indian Sports Channels", Sports 18 3
+http://103.182.170.32:8888/play/a02i
+
+#EXTINF:-1 tvg-id="Ten2" tvg-name="TEN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Indian Sports Channels", TEN 2 HD
+http://103.182.170.32:8888/play/a026
+
+#EXTINF:-1 tvg-id="SonyTen5" tvg-name="SONY TEN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Indian Sports Channels", SONY TEN 5 HD
+http://103.182.170.32:8888/play/a034
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports (Bangladesh)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/T_Sports_Logo.png" group-title="Bangladesh Sports Channel", T Sports
+http://198.195.239.50:8095/Tsports/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_Logo.svg" group-title="Kids Channels", Cartoon Network
+http://103.182.170.32:8888/play/a04o
+
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Discovery_Channel_Logo.svg" group-title="Kids Channels", Discovery Kids
+http://103.182.170.32:8888/play/a02o
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Disney_Channel_Logo.svg" group-title="Kids Channels", Disney Channel
+http://103.182.170.32:8888/play/a04g
+
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Disney_Junior_Logo.svg" group-title="Kids Channels", Disney Junior
+http://103.182.170.32:8888/play/a03q
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Nickelodeon_Logo.svg" group-title="Kids Channels", Nick
+http://103.182.170.32:8888/play/a04q
+
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Nickelodeon_Logo.svg" group-title="Kids Channels", Nick Jr.
+http://103.182.170.32:8888/play/a02q
+
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Pogo_TV_Logo.png" group-title="Kids Channels", Pogo
+http://103.182.170.32:8888/play/a02p
+
+#EXTINF:-1 tvg-id="Sonic" tvg-name="Sonic" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Kids Channels", Sonic
+http://103.182.170.32:8888/play/a02s
+
+#EXTINF:-1 tvg-id="SonyYay" tvg-name="Sony YAY!" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Kids Channels", Sony YAY!
+http://103.182.170.32:8888/play/a04m
+
+#EXTINF:-1 tvg-id="NickBangla" tvg-name="Nick Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Nickelodeon_Logo.svg" group-title="Kids Channels", Nick Bangla
+http://103.180.212.191:3500/live/1341.m3u8
+
+#EXTINF:-1 tvg-id="NickHindi" tvg-name="Nick Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Nickelodeon_Logo.svg" group-title="Kids Channels", Nick Hindi
+http://103.180.212.191:3500/live/545.m3u8
+
+#EXTINF:-1 tvg-id="NickTelugu" tvg-name="Nick Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Nickelodeon_Logo.svg" group-title="Kids Channels", Nick Telugu
+http://103.180.212.191:3500/live/1342.m3u8
+
+#EXTINF:-1 tvg-id="SonicTamil" tvg-name="Sonic Tamil" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Kids Channels", Sonic Tamil
+http://103.180.212.191:3500/live/1344.m3u8
+
+#EXTINF:-1 tvg-id="SonicTelugu" tvg-name="Sonic Telugu" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Kids Channels", Sonic Telugu
+http://103.180.212.191:3500/live/1346.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Animal_Planet_Logo.svg" group-title="Documentary & Lifestyle", Animal Planet
+http://103.182.170.32:8888/play/a049
+
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/National_Geographic_Channel_Logo.svg" group-title="Documentary & Lifestyle", Nat Geo Wild HD
+http://103.182.170.32:8888/play/a01r
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TLC_Logo.svg" group-title="Documentary & Lifestyle", TLC HD
+http://103.182.170.32:8888/play/a01q
+
+#EXTINF:-1 tvg-id="Travelxp" tvg-name="Travelxp HD" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Documentary & Lifestyle", Travelxp HD
+http://103.182.170.32:8888/play/a01x
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Discovery_Channel_Logo.svg" group-title="Documentary & Lifestyle", Discovery Turbo
+http://103.180.212.191:3500/live/541.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MTV_Logo.svg" group-title="Music & Lifestyle", MTV HD
+http://103.182.170.32:8888/play/a025
+
+#EXTINF:-1 tvg-id="StarLife" tvg-name="Star Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Indian Entertainment (Hindi)", Star Life HD
+http://103.182.170.32:8888/play/a020
+
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/BBC_News_2022.svg" group-title="International News", BBC News
+http://103.182.170.32:8888/play/a04k
+
+#EXTINF:-1 tvg-id="AlJazeera" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Al_Jazeera_English_Logo.png" group-title="International News", Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="HumTV" tvg-name="HUM TV (Pakistan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Hum_TV_logo.png" group-title="International Entertainment", HUM TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports" tvg-name="Sky Sports (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sky_Sports_Logo.png" group-title="International Sports", Sky Sports
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV (Bangladesh Television)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/BTV_Logo_2021.png" group-title="Bangladesh News Channels", BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Jamuna_TV_Logo.png" group-title="Bangladesh News Channels", Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Somoy_TV_Logo.png" group-title="Bangladesh News Channels", Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Channel_24_Logo.png" group-title="Bangladesh News Channels", Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Independent_TV_Logo.png" group-title="Bangladesh News Channels", Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Ekattor_TV_Logo.png" group-title="Bangladesh News Channels", Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/ATN_News_Logo.png" group-title="Bangladesh News Channels", ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="News24" tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/News24_Bangladesh.png" group-title="Bangladesh News Channels", News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV" tvg-name="Ekushey Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Ekushey_TV_Logo.png" group-title="Bangladesh News Channels", Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Ekhon_TV_Logo.png" group-title="Bangladesh News Channels", Ekhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 tvg-id="SATV" tvg-name="SATV (Sangram TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SATV_Bangladesh.png" group-title="Bangladesh Religious Channels", SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTV" tvg-name="Nagorik Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Nagorik_TV_Logo.png" group-title="Bangladesh News Channels", Nagorik TV
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV" tvg-name="Deepto TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Deepto_TV_Logo.png" group-title="Bangladesh Entertainment Channels", Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision" tvg-name="Bangla Vision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Bangla_Vision_Logo.png" group-title="Bangladesh Entertainment Channels", Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVBangla" tvg-name="NTV (Bangladesh)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/NTV_Bangladesh_Logo.png" group-title="Bangladesh Entertainment Channels", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ATN_Bangla_Logo.png" group-title="Bangladesh Entertainment Channels", ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Channel_i_Logo.png" group-title="Bangladesh Entertainment Channels", Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9" tvg-name="Channel 9 (Bangladesh)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Channel_9_Bangladesh_Logo.png" group-title="Bangladesh Entertainment Channels", Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-id="StarNewsBangla" tvg-name="Star News (Bangladesh)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Star_News_Bangladesh.png" group-title="Bangladesh News Channels", Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTV" tvg-name="Me TV (Bangladesh)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangladesh Entertainment Channels", Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-id="ATNBanglaUK" tvg-name="ATN Bangla UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ATN_Bangla_Logo.png" group-title="Bangladesh Overseas Channels", ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeshiTV" tvg-name="Deshi Television" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangladesh Entertainment Channels", Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SRKTV" tvg-name="SRK Television" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangladesh Entertainment Channels", SRKTV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaSonar" tvg-name="Zee Bangla Sonar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Zee_Bangla_Logo.png" group-title="Indian Entertainment (Bangla)", Zee Bangla Sonar
+http://103.182.170.32:8888/play/a044
+
+#EXTINF:-1 tvg-id="ArabicChannel" tvg-name="Arabic Channel" tvg-logo="https://i.imgur.com/placeholder.png" group-title="International Entertainment", Arabic Channel
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-id="BhiChannel" tvg-name="Bhi Channel" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Regional Indian Channels", Bhi Channel
+http://15.235.185.236/hls/bhi.m3u8
+
+#EXTINF:-1 tvg-id="KanappaTV" tvg-name="Kanappa TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Regional Indian Channels", Kanappa TV
+http://103.180.212.191:3500/live/785.m3u8

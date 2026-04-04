@@ -77,3 +77,48 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 tvg-id="ArabicChannel" tvg-name="Arabic Channel (unspecified)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="আন্তর্জাতিক সংবাদ", Arabic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports (Bangladesh)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/T_Sports_Logo.png" group-title="বাংলাদেশ স্পোর্টস চ্যানেল", T Sports
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTV" tvg-name="Nagorik Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Nagorik_TV_Logo.png" group-title="বাংলাদেশ নিউজ চ্যানেল", Nagorik TV
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Discovery_Channel_Logo.svg" group-title="আন্তর্জাতিক বিনোদন", Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsmanChannel" tvg-name="Sportsman Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sportsman_Channel_Logo.png" group-title="আন্তর্জাতিক স্পোর্টস", Sportsman Channel
+http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/National_Geographic_Channel_Logo.svg" group-title="আন্তর্জাতিক ডকুমেন্টারি", Nat Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2" tvg-name="Star Sports 2 (India)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Star_Sports_2_Logo.png" group-title="ভারতীয় স্পোর্টস চ্যানেল", Star Sports 2
+http://103.175.242.10:8080/starsports2/index.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Somoy_TV_Logo.png" group-title="বাংলাদেশ নিউজ চ্যানেল", Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD (India)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="ভারতীয় স্পোর্টস চ্যানেল", Star Sports 1 HD
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1Hindi" tvg-name="Star Sports 1 Hindi (India)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="ভারতীয় স্পোর্টস চ্যানেল", Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/360p.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsHindi2" tvg-name="Star Sports Hindi (alternate)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="ভারতীয় স্পোর্টস চ্যানেল", Star Sports Hindi
+http://103.175.73.12:8080/live/151/151_0.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2" tvg-name="Star Gold 2 HD (India)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Star_Gold_Logo.png" group-title="ভারতীয় বিনোদন চ্যানেল", Star Gold 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold HD (India)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Star_Gold_Logo.png" group-title="ভারতীয় বিনোদন চ্যানেল", Star Gold HD
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTV" tvg-name="Me TV (Bangladesh)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="বাংলাদেশ বিনোদন চ্যানেল", Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Discovery_Channel_Logo.svg" group-title="বাংলাদেশ বিনোদন চ্যানেল", Discovery Bangla
+http://103.180.212.191:3500/live/573.m3u8
+
+#EXTINF:-1 tvg-id="T20Cricket" tvg-name="T20 Cricket Live (Rutube)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="লাইভ স্পোর্টস ইভেন্ট", T20 Cricket Live
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https

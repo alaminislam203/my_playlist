@@ -1,21 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQP5lfOEzxUtjpNjWcFTJNNAyHrAada-OGIbHH5s7e4-Vf7b_8Gkh4CU&s=10", Bangladesh Betar FM 100.0
+
+#EXTINF:-1 tvg-id="BB_FM100" tvg-name="Bangladesh Betar FM 100.0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="Bangladesh Betar (National)", Bangladesh Betar FM 100.0
 https://as1.digitalsynapsebd.com/proxy/bbdktraf/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-dj8BuPBijbsTiHDxLxgNWT1He4L2yl4O3XKbrWuTK0tbU24HzJSiYx4&s=10", Spice FM BD 96.4
+
+#EXTINF:-1 tvg-id="BB_888" tvg-name="Bangladesh Betar 88.8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="Bangladesh Betar (National)", Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+
+#EXTINF:-1 tvg-id="SpiceFM" tvg-name="Spice FM 96.4" tvg-logo="https://spicefmbd.com/logospice.png" group-title="Commercial FM (Dhaka & National)", Spice FM BD 96.4
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1UtB_z-mxZOSS3URBzv-PJrvA3AT2tjPB3ycWs-jMC-zJrRW5lkA30U&s=10", Jagobd FM 94.4
-http://128.199.184.111:12496/;stream/1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP6XbBT3acSATGprZOqJnFIMa6560oSr2pgudafm81Z1PHnd_uXm_27Io&s=10", Radio Padma FM 99.2
-https://radiopadmabd.radioca.st/radiopadma
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDZiSlxOeCuxjxHJ19usQdzOAedG_UcurGKJSm91T2R8CXlb1yQDWcmSVE&s=10", Radio Foorti FM 88.0
+
+#EXTINF:-1 tvg-id="RadioFoorti" tvg-name="Radio Foorti 88.0" tvg-logo="https://static-media.streema.com/media/cache/ec/18/ec181c0dd0189a12a0573982a2d21c9d.jpg" group-title="Commercial FM (Dhaka & National)", Radio Foorti FM 88.0
 http://119.148.23.88:1021/;stream/1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfR3ZBviA9qW2MDR_qoc3AESyPPaMRxsT8nQ&s", Radio GoonGoon FM 
+
+#EXTINF:-1 tvg-id="RadioFoortiZeno" tvg-name="Radio Foorti (Zeno)" tvg-logo="https://static-media.streema.com/media/cache/ec/18/ec181c0dd0189a12a0573982a2d21c9d.jpg" group-title="Commercial FM (Dhaka & National)", Radio Foorti
+https://node-11.zeno.fm/f0bfdk2w34zuv
+
+#EXTINF:-1 tvg-id="DhakaFM" tvg-name="Dhaka FM 90.4" tvg-logo="https://play-lh.googleusercontent.com/6VVysnffLbyVQzuuKcGlBoiq7jeAazeekaY92hIJOX87B69k6bxHooiWgHHP2UvBZHw" group-title="Commercial FM (Dhaka & National)", Dhaka FM 90.4
+http://118.179.219.244:8000/
+
+#EXTINF:-1 tvg-id="RadioToday" tvg-name="Radio Today 89.6" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyGwsSDlN0YXRpb25Qcm9maWxlGICAgICp8rMIDKIBBHplbm8/images/logo" group-title="Commercial FM (Dhaka & National)", Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv
+
+#EXTINF:-1 tvg-id="ABCRadio" tvg-name="ABC Radio 89.2" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICAt5fPqgoMCxIOU3RhdGlvblByb2ZpbGUYgICg45S6oAkMogEEemVubw/images/logo" group-title="Commercial FM (Dhaka & National)", ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+
+#EXTINF:-1 tvg-id="JagobdFM" tvg-name="Jagobd FM 94.4" tvg-logo="https://jagobd.com/logo-fb-final-final.png" group-title="Online & Community Radio", Jagobd FM 94.4
+http://128.199.184.111:12496/;stream/1
+
+#EXTINF:-1 tvg-id="RadioPadma" tvg-name="Radio Padma 99.2" tvg-logo="https://radiopadma.com/wp-content/uploads/2022/08/Radio-Padma-squire.jpg" group-title="Online & Community Radio", Radio Padma FM 99.2
+https://radiopadmabd.radioca.st/radiopadma
+
+#EXTINF:-1 tvg-id="RadioGoonGoon" tvg-name="Radio GoonGoon" tvg-logo="https://radiogoongoon.com/wp-content/uploads/2022/08/rgglogo500.png" group-title="Online & Community Radio", Radio GoonGoon FM
 https://audio.streamcast.xyz/radio/8000/radio.mp3?
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNutSxGlgViiOZTtup2STh40abAW5Lap-8Ze178NRzfizTDWJF3jZpvZt&s=10", Dhaka FM 90.4
-http://118.179.219.244:8000/;
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7LX5MpGt_ilrq8DnVn0FuqsIsQs08nTK-p2utRimg9Hmp5UGX9RGIS03&s=10", FnF FM
+
+#EXTINF:-1 tvg-id="FnFFM" tvg-name="FnF FM" tvg-logo="https://i1.sndcdn.com/avatars-000265047274-wgj380-t1080x1080.jpg" group-title="Online & Community Radio", FnF FM
 http://eu6.fastcast4u.com:5099/;stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbPKhjrISIXjVxAw456pL1k7yABekedV6lX4CoJJwCtpyh4YWaE4QLM0&s=10", Relaks Radio FM
+
+#EXTINF:-1 tvg-id="RelaksRadio" tvg-name="Relaks Radio" tvg-logo="https://i1.sndcdn.com/avatars-8pyj15nAveWBC9u5-hI5HBQ-t240x240.jpg" group-title="Online & Community Radio", Relaks Radio FM
 https://s3.voscast.com:9893/live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3yqahSBp2D3HoQgmsSCodJ50hrovfsMsow&s", Radio Mahananda FM 98.8
+
+#EXTINF:-1 tvg-id="RadioMahananda" tvg-name="Radio Mahananda 98.8" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/658/radio-mahananda-988-fm.717ad31a.png" group-title="Online & Community Radio", Radio Mahananda FM 98.8
 https://streaming.radiomahananda.fm/proxy/radiomahananda/stream
+
+#EXTINF:-1 tvg-id="RadioWow" tvg-name="Radio Wow" tvg-logo="https://www.radio.net/300/radiowowit.png" group-title="Online & Community Radio", Radio Wow
+https://stream-41.zeno.fm/d22wrdbst5quv
+
+#EXTINF:-1 tvg-id="AlQuranRadio" tvg-name="Al Quran Radio" tvg-logo="https://cdn.aptoide.com/imgs/9/5/3/953fdd62a4280b9a985090c578ffaa9e_icon.png" group-title="Religious / Spiritual", Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3

@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Euro Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Eurosport_2_logo.svg" group-title="General Sports", Euro Sport 2 HD
-http://178.23.88.55/Eurosport_2/index.m3u8
-
-#EXTINF:-1 tvg-id="Sport1" tvg-name="Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sport1_Logo.svg" group-title="General Sports", Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport1" tvg-name="Arena Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Arena_Sport_Logo.png" group-title="General Sports", Arena Sports 1
-http://178.23.88.55/Arena_sport/index.m3u8
-
-#EXTINF:-1 tvg-id="NovaSport1" tvg-name="Nova Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Nova_Sport_Logo.png" group-title="General Sports", Nova Sport 1 HD
-http://178.23.88.55/Nova_Sport/index.m3u8
-
-#EXTINF:-1 tvg-id="RTA Sports" tvg-name="RTA Sports (Afghanistan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/RTA_Logo.png" group-title="Football/Soccer", RTA Sports
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/01.m3u8
 
 #EXTINF:-1 tvg-id="Football" tvg-name="Football Live (RMTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Football_icon.png" group-title="Football/Soccer", Football Live
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8

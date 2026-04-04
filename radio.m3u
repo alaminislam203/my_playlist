@@ -76,9 +76,6 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 #EXTINF:-1 group-title="Bangladesh Radio" tvg-logo="https://i.imgur.com/8Qq4k4H.png" tvg-name="Radio Bater BD", Radio Bater BD
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-#EXTINF:-1 group-title="Bangladesh Radio" tvg-logo="https://i.imgur.com/2WxMqYy.png" tvg-name="Spice FM", Spice FM BD
-https://stream.spicefmbd.com/stream.m3u8
-
 #EXTINF:-1 group-title="Islamic Channels" tvg-logo="https://i.imgur.com/4h7qF9l.png" tvg-name="Live Quran TV", Live Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
@@ -88,5 +85,26 @@ https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 group-title="Islamic Radio" tvg-logo="https://i.imgur.com/4h7qF9l.png" tvg-name="Al Quran Radio", Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 
-#EXTINF:-1 group-title="Cricket Live" tvg-logo="" tvg-name="Cricket Stream (PSL/BigBaat)", Cricket PSL Stream
-https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioAmar" tvg-name="Radio Amar (88.4)" tvg-logo="https://www.radio.net/300/radiomarpe.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Radio Amar (88.4)
+http://118.179.215.45:8000/;stream/1
+
+
+#EXTINF:-1 tvg-id="RadioToday" tvg-name="Radio Today (89.6)" tvg-logo="https://i.imgur.com/GvJ0sYz.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+
+#EXTINF:-1 tvg-id="RadioDhoni" tvg-name="Radio Dhoni (91.2)" tvg-logo="https://i.imgur.com/ZYh9lVp.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Radio Dhoni (91.2)
+http://182.160.110.180:1020/;stream.mp3
+
+#EXTINF:-1 tvg-id="RadioShadhin" tvg-name="Radio Shadhin (92.4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Radio_Shadhin_Logo.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Radio Shadhin (92.4)
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+
+#EXTINF:-1 tvg-id="BigFM" tvg-name="Big FM (92.7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/BIGFM_NEW_LOGO_2019.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+
+
+#EXTINF:-1 tvg-id="RadioEkattor" tvg-name="Radio Ekattor (98.4)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2f/%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93_%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Radio Ekattor (98.4)
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+
+#EXTINF:-1 tvg-id="ColoursFM" tvg-name="Colours FM (101.6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Colours_FM_logo.png" group-title="বাংলাদেশ এফএম (সব স্টেশন)", Colours FM (101.6)
+http://45.64.135.88:8000/stream1

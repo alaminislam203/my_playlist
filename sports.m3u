@@ -1,5 +1,247 @@
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RealMadridTV" tvg-name="Real Madrid TV (English)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_TV_logo.png" group-title="Football (Club TV)", Real Madrid TV (ENG)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV" tvg-name="Real Madrid TV (Spanish)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_TV_logo.png" group-title="Football (Club TV)", Real Madrid TV (ESP)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Bull_TV_logo.png" group-title="Action Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel" tvg-name="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tennis_Channel_logo.png" group-title="Tennis", Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRI Sport (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/TVRI_Logo.png" group-title="General Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports1" tvg-name="Bahrain Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bahrain_Television_Logo.png" group-title="General Sports", Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports2" tvg-name="Bahrain Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bahrain_Television_Logo.png" group-title="General Sports", Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmanSport" tvg-name="Oman Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Oman_Television_Logo.png" group-title="General Sports", Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KuwaitSports" tvg-name="Kuwait Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kuwait_TV_Logo.png" group-title="General Sports", Kuwait Sports
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="IraqSport" tvg-name="Iraq Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Al-Iraqiya_TV_Logo.png" group-title="General Sports", Iraq Sport
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanCL" tvg-name="Strongman Champions League 1" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Action Sports", Strongman Champions League 1
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanCL2" tvg-name="Strongman Champions League 2" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Action Sports", Strongman Champions League 2
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenSport" tvg-name="Turkmen Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Turkmenistan_Television_Logo.png" group-title="General Sports", Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountry" tvg-name="Horse & Country TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Horse_%26_Country_TV_logo.png" group-title="Equestrian", Horse & Country TV
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5 HD (China)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/CCTV-5_Logo.png" group-title="General Sports", CCTV 5 HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTV5Plus" tvg-name="CCTV 5+ (China)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/CCTV-5_Logo.png" group-title="General Sports", CCTV 5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 (Olympic)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/CCTV-5_Logo.png" group-title="General Sports", CCTV 16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="JSport1" tvg-name="J Sport 1 (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", J Sport 1
+https://nl.utako.moe/js1/index.m3u8
+
+#EXTINF:-1 tvg-id="JSport2" tvg-name="J Sport 2 (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", J Sport 2
+https://nl.utako.moe/js2/index.m3u8
+
+#EXTINF:-1 tvg-id="JSport3" tvg-name="J Sport 3 (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", J Sport 3
+https://nl.utako.moe/js3/index.m3u8
+
+#EXTINF:-1 tvg-id="JSport4" tvg-name="J Sport 4 (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", J Sport 4
+https://nl.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 tvg-id="GaoraSports" tvg-name="Gaora Sports (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Gaora Sports
+https://nl.utako.moe/gaora/index.m3u8
+
+#EXTINF:-1 tvg-id="FightingTVSamurai" tvg-name="Fighting TV Samurai (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Fighting/MMA", Fighting TV Samurai
+https://nl.utako.moe/fighting_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="SportLivePlus" tvg-name="Sport Live Plus (Japan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Sport Live Plus
+https://nl.utako.moe/sport_live_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV22" tvg-name="SCTV 22 - SSPORT 1 (Vietnam)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", SCTV 22 - SSPORT 1
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+
+#EXTINF:-1 tvg-id="Canal11" tvg-name="Canal 11 (Portugal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_11_Logo.png" group-title="Football", Canal 11
+https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porto_Canal_logo.png" group-title="Football (Club TV)", Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABolaTV" tvg-name="A Bola TV (Portugal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/A_Bola_logo.png" group-title="Football", A Bola TV
+http://cdn.vsemtv.top/231/index.m3u8?token=Md7ac19a92
+
+#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 (Portugal - Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Sport_TV_logo.png" group-title="Football", Sport TV 1
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports" tvg-name="Eleven Sports (Global)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Eleven_Sports_logo.png" group-title="General Sports", Eleven Sports
+https://stream1.freetv.fun/eleven-sports-4-1.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/ESPN_Deportes_logo.png" group-title="General Sports", ESPN Deportes
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
+#EXTINF:-1 tvg-id="IDMAN" tvg-name="IDMAN TV (Turkey)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", IDMAN TV
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MatchTV" tvg-name="Match TV (Russia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Match_TV_logo.png" group-title="General Sports", Match TV
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MatchFutbol1" tvg-name="Match! Football 1 HD (Russia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Match_TV_logo.png" group-title="Football", Match! Football 1 HD
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 tvg-id="MatchFutbol2" tvg-name="Match! Football 2 HD (Russia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Match_TV_logo.png" group-title="Football", Match! Football 2 HD
+http://193.25.8.59:8000/fut2
+
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-name="Canal+ Sport (France)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Canal%2B_Sport_logo.png" group-title="General Sports", Canal+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-name="L'Equipe (France)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/L%27%C3%89quipe_logo.png" group-title="General Sports", L'Equipe
+https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1 tvg-id="CTSport" tvg-name="CT Sport (Czech)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/CT_logo.svg" group-title="General Sports", CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport1CZ" tvg-name="Sport 1 HD (Czech)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Sport 1 HD
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2CZ" tvg-name="Sport 2 HD (Czech)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Sport 2 HD
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSportCZ" tvg-name="Arena Sport 1 (Czech)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2CZ" tvg-name="Arena Sport 2 (Czech)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovaSportCZ" tvg-name="Nova Sport 1 HD (Czech)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Nova Sport 1 HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+
+#EXTINF:-1 tvg-id="SportyTV" tvg-name="Sporty TV (Czech)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ArtSport1" tvg-name="Art Sport 1 HD (Kosovo)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Art Sport 1 HD
+http://169.150.223.25/ArtSport1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArtSport2" tvg-name="Art Sport 2 HD (Kosovo)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Art Sport 2 HD
+http://169.150.223.25/ArtSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="ArtSport3" tvg-name="Art Sport 3 HD (Kosovo)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Art Sport 3 HD
+http://169.150.223.25/ArtSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="RTSHSport" tvg-name="RTSH Sport (Albania)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/RTSH_logo.png" group-title="General Sports", RTSH Sport
+http://217.73.139.200:5443/play/a01d
+
+#EXTINF:-1 tvg-id="SetantaSport1" tvg-name="Setanta Sport 1 (Georgia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Setanta Sport 1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1 tvg-id="SetantaSport2" tvg-name="Setanta Sport 2 (Georgia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Setanta Sport 2
+http://94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneSport" tvg-name="Suspilne Sport (Ukraine)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Suspilne_Ukraine_logo.png" group-title="General Sports", Suspilne Sport
+https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+
+#EXTINF:-1 tvg-id="QazaqstanSport" tvg-name="Qazaqstan Sport (Kazakhstan)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Qazaqstan Sport
+https://stream.qaztv.kz/live/stream9/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport" tvg-name="Turkmenistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Turkmenistan_Television_Logo.png" group-title="General Sports", Turkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5" tvg-name="Belarus 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Belarus_5_logo.png" group-title="General Sports", Belarus 5
+http://cdntv.online/low/9mlxywika2/778.m3u8
+
+#EXTINF:-1 tvg-id="XSport" tvg-name="XSport (Russia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", XSport
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1 tvg-id="SetentaSport1" tvg-name="Setenta Sport 1 (Russia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Setenta Sport 1
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1 tvg-id="SetentaSport2" tvg-name="Setenta Sport 2 (Russia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Setenta Sport 2
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+#EXTINF:-1 tvg-id="BillyardTV" tvg-name="Billyard TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Other Sports", Billyard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
+
+#EXTINF:-1 tvg-id="Africa24Sport" tvg-name="Africa 24 Sport (Nigeria)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MMNSport" tvg-name="MMN Sport (Saudi Arabia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", MMN Sport
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MASR" tvg-name="MASR (Qatar)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", MASR
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-id="HTSpor" tvg-name="HT Spor (Turkey)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", HT Spor
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="EkolSports" tvg-name="Ekol Sports (Turkey)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Ekol Sports
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+
+#EXTINF:-1 tvg-id="SportItalia" tvg-name="Sport Italia" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Infosport" tvg-name="Infosport (France)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Infosport
+http://212.102.60.80/Infosport/index.m3u8
+
+#EXTINF:-1 tvg-id="NowSports1" tvg-name="Now Sports 1 (Hong Kong)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Now Sports 1
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="NowSports2" tvg-name="Now Sports 2 (Hong Kong)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Now Sports 2
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="NowSports3" tvg-name="Now Sports 3 (Hong Kong)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Now Sports 3
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
+#EXTINF:-1 tvg-id="ONSportsPlus" tvg-name="ON Sports+ (Hong Kong)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", ON Sports+
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+
+#EXTINF:-1 tvg-id="CazeTV" tvg-name="Caze TV 1 (Brazil)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Caze TV 1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="WinSport" tvg-name="Win Sport (Colombia)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Win Sport
+http://190.0.247.38:8000/play/a068
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Telefe_logo.png" group-title="General Sports", Telefe
+http://200.115.120.1:8000/play/ca016/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecosta" tvg-name="Telecosta (Guatemala)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Telemundo_logo.png" group-title="General Sports", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="AymSport" tvg-name="Aym Sport (USA)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Aym Sport
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="MTRSports1" tvg-name="MTR Sports-1 (UK)" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", MTR Sports-1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORFPlus" tvg-name="ORF+ (Austria)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/ORF_logo.svg" group-title="General Sports", ORF+
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+
+#EXTINF:-1 tvg-id="TV2Spain" tvg-name="TV2 (Spain)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/La_2_de_TVE_logo.png" group-title="General Sports", TV2 Spain
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="BeinXtraES" tvg-name="Bein Sport Extra (Spain)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/BeIN_Sports_logo.png" group-title="General Sports", Bein Sport Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="AstrakhanSport" tvg-name="Astrakhan.Ru Sport" tvg-logo="https://i.imgur.com/placeholder.png" group-title="General Sports", Astrakhan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Football" tvg-name="Football Live (RMTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Football_icon.png" group-title="Football/Soccer", Football Live
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8

@@ -99,6 +99,39 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="SRKTV" tvg-name="SRK Television" tvg-logo="https://i.imgur.com/placeholder.png" group-title="বাংলাদেশ আঞ্চলিক চ্যানেল" ,SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LiveSports" tvg-name="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sports_icon.png" group-title="Sports", Live Sports
+https://Genz2.zibobdixserver.top/101/index.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/T_Sports_Logo.png" group-title="Sports", T Sports
+https://Genz2.zibobdixserver.top/102/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/GTV_Logo.png" group-title="Sports", GTV
+https://Genz2.zibobdixserver.top/106/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1" tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Sports", Star Sports 1
+https://Genz2.zibobdixserver.top/110/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2" tvg-name="Star Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Star_Sports_2_Logo.png" group-title="Sports", Star Sports 2
+https://Genz2.zibobdixserver.top/115/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen1" tvg-name="Sony Ten 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Sports", Sony Ten 1
+https://Genz2.zibobdixserver.top/119/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen2" tvg-name="Sony Ten 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Sports", Sony Ten 2
+https://Genz2.zibobdixserver.top/120/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen3" tvg-name="Sony Ten 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sony_Ten_Logo.png" group-title="Sports", Sony Ten 3
+https://Genz2.zibobdixserver.top/121/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1" tvg-name="Star Sports Select 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Sports", Star Sports Select 1
+https://Genz2.zibobdixserver.top/124/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect2" tvg-name="Star Sports Select 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Star_Sports_1_Logo.png" group-title="Sports", Star Sports Select 2
+https://Genz2.zibobdixserver.top/123/index.m3u8
+
+#EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Star_Jalsha_Logo.png" group-title="Entertainment", Star Jalsha HD
+https://Genz2.zibobdixserver.top/302/index.m3u8
+
 #EXTINF:-1 tvg-id="DeshiTV" tvg-name="Deshi Television" tvg-logo="https://i.imgur.com/placeholder.png" group-title="বাংলাদেশ আঞ্চলিক চ্যানেল" ,Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 

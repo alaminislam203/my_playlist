@@ -1,24 +1,35 @@
-24/7 Hindi Movies
+#EXTINF:-1 tvg-id="HindiMovies247" tvg-name="24/7 Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Bollywood_Logo.png" group-title="24/7 Movies" ,24/7 Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-24/7 Bangla Movies
+
+#EXTINF:-1 tvg-id="BanglaMovies247" tvg-name="24/7 Bangla Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Bangla_Letter_%25E0%25A6%2595.png" group-title="24/7 Movies" ,24/7 Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-24/7 Dubbed Movies
+
+#EXTINF:-1 tvg-id="DubbedMovies247" tvg-name="24/7 Dubbed Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Bollywood_Logo.png" group-title="24/7 Movies" ,24/7 Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-24/7 Bangla Waz
+
+#EXTINF:-1 tvg-id="BanglaWaz247" tvg-name="24/7 Bangla Waz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Islamic_star_and_crescent.png" group-title="24/7 Religious" ,24/7 Bangla Waz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-24/7 Bangla Kirtan
+
+#EXTINF:-1 tvg-id="BanglaKirtan247" tvg-name="24/7 Bangla Kirtan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hindu_Om_Symbol.svg" group-title="24/7 Religious" ,24/7 Bangla Kirtan
 https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
-24/7 Bantul The Great
+
+#EXTINF:-1 tvg-id="BantulTheGreat247" tvg-name="24/7 Bantul The Great" tvg-logo="https://i.imgur.com/placeholder.png" group-title="24/7 Cartoons" ,24/7 Bantul The Great
 https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-24/7 Gopal Bhar
+
+#EXTINF:-1 tvg-id="GopalBhar247" tvg-name="24/7 Gopal Bhar" tvg-logo="https://i.imgur.com/placeholder.png" group-title="24/7 Cartoons" ,24/7 Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-24/7 Motu Patlu
+
+#EXTINF:-1 tvg-id="MotuPatlu247" tvg-name="24/7 Motu Patlu" tvg-logo="https://i.imgur.com/placeholder.png" group-title="24/7 Cartoons" ,24/7 Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-24/7 Shinchan
+
+#EXTINF:-1 tvg-id="Shinchan247" tvg-name="24/7 Shinchan" tvg-logo="https://i.imgur.com/placeholder.png" group-title="24/7 Cartoons" ,24/7 Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-4/7 Doraemon
+
+#EXTINF:-1 tvg-id="Doraemon247" tvg-name="24/7 Doraemon" tvg-logo="https://i.imgur.com/placeholder.png" group-title="24/7 Cartoons" ,24/7 Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-24/7 Hindi Songs
+
+#EXTINF:-1 tvg-id="HindiSongs247" tvg-name="24/7 Hindi Songs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Music_note_icon.png" group-title="24/7 Music" ,24/7 Hindi Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-24/7 Bangla Songs
+
+#EXTINF:-1 tvg-id="BanglaSongs247" tvg-name="24/7 Bangla Songs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Music_note_icon.png" group-title="24/7 Music" ,24/7 Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8

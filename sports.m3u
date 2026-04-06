@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="RealMadridTV" tvg-name="Real Madrid TV (English)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_TV_logo.png" group-title="Football (Club TV)", Real Madrid TV (ENG)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 

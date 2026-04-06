@@ -1,14 +1,14 @@
 [
   {
     "name": "IPL 2026: কলকাতা নাইট রাইডার্স (KKR) vs পাঞ্জাব কিংস (PBKS)",
-    "url": "https://example.com/live/ipl1.m3u8",
+    "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/bn/e/e9/%E0%A6%9F%E0%A6%BE%E0%A6%9F%E0%A6%BE_%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2-%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg",
     "category": "Cricket",
     "status": "upcoming"
   },
   {
     "name": "PSL 2026: মুলতান সুলতানস vs  রাওয়ালপিন্ডি পিন্ডিজ",
-    "url": "https://example.com/live/epl1.m3u8",
+    "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Official_logo_of_Pakistan_Super_League.png",
     "category": "Cricket",
     "status": "upcoming"

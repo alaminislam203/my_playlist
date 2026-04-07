@@ -2,41 +2,91 @@
   {
     "name": "AFC U-20 Women's Asian Cup: বাংলাদেশ vs ভিয়েতনাম",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "iturn0image31",
+    "logo": "iturn0image5",
     "logo2": "iturn0image90",
     "start_time": "2026-04-07T19:00:00",
-    "category": "Football"
+    "category": "Football",
+    "channel": "T Sports"
   },
   {
     "name": "IPL 2026: রাজস্থান রয়্যালস vs মুম্বাই ইন্ডিয়ানস",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "iturn0image61",
-    "logo2": "iturn0image1",
+    "logo": "iturn0image179",
+    "logo2": "iturn0image61",
     "start_time": "2026-04-07T20:00:00",
-    "category": "Cricket"
+    "category": "Cricket",
+    "channel": "Star Sports 1, 2"
   },
   {
     "name": "UEFA Champions League: রিয়াল মাদ্রিদ vs বায়ার্ন মিউনিখ",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "iturn0image204",
-    "logo2": "iturn0image180",
+    "logo": "iturn0image208",
+    "logo2": "iturn0image35",
     "start_time": "2026-04-08T01:00:00",
-    "category": "Football"
+    "category": "Football",
+    "channel": "Sony Sports 2"
   },
   {
     "name": "UEFA Champions League: স্পোর্তিং CP vs আর্সেনাল",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "iturn0image120",
-    "logo2": "iturn0image150",
+    "logo": "iturn0image149",
+    "logo2": "iturn0image119",
     "start_time": "2026-04-08T01:00:00",
-    "category": "Football"
+    "category": "Football",
+    "channel": "Sony Sports 1"
   },
   {
     "name": "English Championship: রেক্সহাম vs সাউদাম্পটন",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "iturn0image31", 
+    "logo": "iturn0image31",
     "logo2": "iturn0image150",
     "start_time": "2026-04-08T01:00:00",
-    "category": "Football"
+    "category": "Football",
+    "channel": "FanCode"
+  },
+  {
+    "name": "NBA: Chicago Bulls vs Washington Wizards",
+    "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
+    "logo": "NBA_logo",
+    "logo2": "NBA_logo",
+    "start_time": "2026-04-07T16:00:00",
+    "category": "Basketball",
+    "channel": "NBA League Pass"
+  },
+  {
+    "name": "MLB: Kansas City Royals vs Cleveland Guardians",
+    "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
+    "logo": "MLB_logo",
+    "logo2": "MLB_logo",
+    "start_time": "2026-04-07T18:10:00",
+    "category": "Baseball",
+    "channel": "Guardians.TV / Royals.TV"
+  },
+  {
+    "name": "NHL: Toronto Maple Leafs vs Montreal Canadiens",
+    "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
+    "logo": "NHL_logo",
+    "logo2": "NHL_logo",
+    "start_time": "2026-04-07T19:00:00",
+    "category": "Ice Hockey",
+    "channel": "NHL Network"
+  },
+  {
+    "name": "UFC Fight Night (31 bouts)",
+    "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
+    "logo": "UFC_logo",
+    "logo2": "UFC_logo",
+    "start_time": "2026-04-07T20:00:00",
+    "category": "MMA",
+    "channel": "ESPN+"
+  },
+  {
+    "name": "Formula 1: Practice & Qualifying Sessions",
+    "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
+    "logo": "F1_logo",
+    "logo2": "F1_logo",
+    "start_time": "2026-04-07T21:00:00",
+    "category": "Motorsport",
+    "channel": "F1 TV / ESPN"
   }
 ]

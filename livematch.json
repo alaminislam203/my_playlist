@@ -2,40 +2,40 @@
   {
     "name": "AFC U-20 Women's Asian Cup: বাংলাদেশ vs ভিয়েতনাম",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3d/Bangladesh_Football_Federation_logo.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/2/21/Vietnam_Football_Federation_logo.png",
+    "logo": "iturn0image31",
+    "logo2": "iturn0image90",
     "start_time": "2026-04-07T19:00:00",
     "category": "Football"
   },
   {
     "name": "IPL 2026: রাজস্থান রয়্যালস vs মুম্বাই ইন্ডিয়ানস",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3d/Rajasthan_Royals_Logo.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/2/25/Mumbai_Indians_Logo.svg",
+    "logo": "iturn0image61",
+    "logo2": "iturn0image1",
     "start_time": "2026-04-07T20:00:00",
     "category": "Cricket"
   },
   {
     "name": "UEFA Champions League: রিয়াল মাদ্রিদ vs বায়ার্ন মিউনিখ",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+    "logo": "iturn0image204",
+    "logo2": "iturn0image180",
     "start_time": "2026-04-08T01:00:00",
     "category": "Football"
   },
   {
     "name": "UEFA Champions League: স্পোর্তিং CP vs আর্সেনাল",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal_logo.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "logo": "iturn0image120",
+    "logo2": "iturn0image150",
     "start_time": "2026-04-08T01:00:00",
     "category": "Football"
   },
   {
     "name": "English Championship: রেক্সহাম vs সাউদাম্পটন",
     "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Wrexham_AFC_logo.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+    "logo": "iturn0image31", 
+    "logo2": "iturn0image150",
     "start_time": "2026-04-08T01:00:00",
     "category": "Football"
   }

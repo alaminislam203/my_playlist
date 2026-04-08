@@ -39,10 +39,9 @@
     "channel": "Star Sports 1, 2"
   },
   {
-    "name": "PSL 2026: Hyderabad vs Peshawar Zalmi",
+    "name": "PSL 2026: Multan Sultans vs Peshawar Zalmi",
     "links": [
-      {"label": "Server 1 (HD)", "url": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index_2.m3u8"},
-    
+      {"label": "Server 1 (HD)", "url": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index_2.m3u8"}
     ],
     "logo": "iturn0image90",
     "logo2": "iturn0image207",
@@ -53,8 +52,7 @@
   {
     "name": "AFC U-20 Women's Asian Cup: Japan vs Australia",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"},
-    
+      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"}
     ],
     "logo": "iturn0image31",
     "logo2": "iturn0image61",
@@ -65,10 +63,10 @@
   {
     "name": "UEFA Europa League: Braga vs Real Betis",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"},
+      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"}
     ],
-    "logo": "iturn0image31",
-    "logo2": "iturn0image61",
+    "logo": "iturn0image32",
+    "logo2": "iturn0image62",
     "start_time": "2026-04-08T22:45:00",
     "category": "Football",
     "channel": "Sony Sports 5"

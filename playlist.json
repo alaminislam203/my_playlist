@@ -1,6 +1,6 @@
 [
   {"name": "Prime TV", "url": "https://raw.githubusercontent.com/alaminislam203/my_playlist/refs/heads/main/prime.m3u"},
-  {"name": "Prime TV", "url": "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u"},
+  {"name": "Fancode", "url": "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u"},
   {"name": "Combo 1", "url": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u"},
   {"name": "Toffee BD", "url": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u"},
   {"name": "Yupptv Premium", "url": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist.m3u"},

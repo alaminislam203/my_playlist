@@ -70,5 +70,76 @@
     "start_time": "2026-04-08T22:45:00",
     "category": "Football",
     "channel": "Sony Sports 5"
+  },
+  {
+    "name": "UEFA Champions League: Real Madrid vs Manchester City",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"},
+      {"label": "Server 2 (SD)", "url": "http://103.161.153.165:8000/play/stp2h/index.m3u8"},
+      {"label": "Backup", "url": "http://103.161.153.165:8000/play/stp3h/index.m3u8"}
+    ],
+    "logo": "iturn0image10",
+    "logo2": "iturn0image15",
+    "start_time": "2026-04-09T01:00:00",
+    "category": "Football",
+    "channel": "Sony Sports 1"
+  },
+  {
+    "name": "UEFA Champions League: Bayern Munich vs Arsenal",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp4h/index.m3u8"},
+      {"label": "Server 2 (SD)", "url": "http://103.161.153.165:8000/play/stp5h/index.m3u8"}
+    ],
+    "logo": "iturn0image22",
+    "logo2": "iturn0image28",
+    "start_time": "2026-04-09T01:00:00",
+    "category": "Football",
+    "channel": "Sony Sports 2"
+  },
+  {
+    "name": "IPL 2026: Mumbai Indians vs Chennai Super Kings",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"},
+      {"label": "Server 2 (SD)", "url": "http://103.161.153.165:8000/play/stp2h/index.m3u8"}
+    ],
+    "logo": "iturn0image180",
+    "logo2": "iturn0image190",
+    "start_time": "2026-04-09T20:00:00",
+    "category": "Cricket",
+    "channel": "Star Sports 1, Hindi"
+  },
+  {
+    "name": "IPL 2026: KKR vs RCB",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp3h/index.m3u8"}
+    ],
+    "logo": "iturn0image150",
+    "logo2": "iturn0image160",
+    "start_time": "2026-04-09T16:00:00",
+    "category": "Cricket",
+    "channel": "Star Sports 2"
+  },
+  {
+    "name": "The Masters Tournament 2026: Round 1",
+    "links": [
+      {"label": "Golf Live", "url": "http://103.161.153.165:8000/play/stp6h/index.m3u8"}
+    ],
+    "logo": "iturn0image40",
+    "logo2": "iturn0image41",
+    "start_time": "2026-04-09T18:00:00",
+    "category": "Golf",
+    "channel": "Sony Sports 5"
+  },
+  {
+    "name": "Saudi Pro League: Al Nassr vs Al Hilal",
+    "links": [
+      {"label": "Server 1", "url": "http://103.161.153.165:8000/play/stp7h/index.m3u8"}
+    ],
+    "logo": "iturn0image99",
+    "logo2": "iturn0image100",
+    "start_time": "2026-04-09T23:30:00",
+    "category": "Football",
+    "channel": "Sony Sports 3"
   }
 ]
+

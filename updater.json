@@ -1,14 +1,15 @@
 {
-    "version": "2.5.2",
+    "version": "2.5.3",
     "notes": [
         "New UI Added",
         "Bugs Fixed",
         "Added more channels",
         "Faster streaming performance",
-        "Improved EPG integration",
+        "Now Support Windows 7/8/8.1/10/11",
         "Multi-server support",
         "Enhanced security patch",
-        "Auto-update playlist feature"
+        "Auto-update playlist feature",
+        "Regular Sports and Live Match Update"
     ],
-    "url": "https://qalbetalks.com/primecast/files/PrimeCast_Setup_v2.5.2.exe"
+    "url": "https://qalbetalks.com/primecast/files/PrimeCast_Setup_v2.5.3.exe"
 }

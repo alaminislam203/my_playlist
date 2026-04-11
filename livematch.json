@@ -1,65 +1,112 @@
 [
   {
-    "name": "Bangladesh Football League: Abahani vs Mohammedan",
+    "name": "IPL: Punjab Kings vs Sunrisers Hyderabad",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://110.39.27.47:8001/play/a00o/index.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Abahani_Limited_Dhaka.svg/1280px-Logo_of_Abahani_Limited_Dhaka.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Mohammedan_SC_logo.svg/1280px-Mohammedan_SC_logo.svg.png",
-    "start_time": "2026-04-10T15:30:00",
-    "category": "Football",
-    "channel": "T Sports"
-  },
-  {
-    "name": "IPL 2026: Rajasthan Royals vs Royal Challengers Bangalore",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"},
-      {"label": "Server 2 (SD)", "url": "http://103.161.153.165:8000/play/stp2h/index.m3u8"},
-      {"label": "Backup", "url": "http://110.39.27.47:8001/play/a00o/index.m3u8"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg/250px-This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Royal_Challengers_Bengaluru_Logo.svg/960px-Royal_Challengers_Bengaluru_Logo.svg.png",
-    "start_time": "2026-04-10T20:00:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Punjab_Kings_Logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/Sunrisers_Hyderabad_Logo.svg",
+    "start_time": "2026-04-11T16:00:00",
     "category": "Cricket",
     "channel": "Star Sports 1, 2"
   },
   {
-    "name": "PSL 2026: Quetta Gladiators vs Rawalpindi Raiders",
+    "name": "IPL: Chennai Super Kings vs Delhi Capitals",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"},
-      {"label": "Server 2 (SD)", "url": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8"},
-      {"label": "Backup", "url": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://110.39.27.47:8001/play/a00o/index.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Quetta_Gladiators.png/250px-Quetta_Gladiators.png",
-    "logo2": "https://www.pcb.com.pk/downloads/Rawalpindi_Raiders.png",
-    "start_time": "2026-04-10T20:00:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Chennai_Super_Kings_Logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals_Logo.svg",
+    "start_time": "2026-04-11T20:00:00",
+    "category": "Cricket",
+    "channel": "Star Sports 1, 2"
+  },
+  {
+    "name": "PSL: Lahore Qalandars vs Peshawar Zalmi",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Lahore_Qalandars_logo.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/Peshawar_Zalmi_logo.png",
+    "start_time": "2026-04-11T15:30:00",
     "category": "Cricket",
     "channel": "T Sports"
   },
   {
-    "name": "La Liga: Real Madrid vs Girona",
+    "name": "PSL: Karachi Kings vs Hyderabad",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://103.161.153.165:8000/play/stp1h/index.m3u8"},
-      {"label": "Server 2 (SD)", "url": "http://103.161.153.165:8000/play/stp2h/index.m3u8"},
-      {"label": "Backup", "url": "http://103.161.153.165:8000/play/stp3h/index.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"}
     ],
-    "logo": "iturn0image118",
-    "logo2": "iturn0image31",
-    "start_time": "2026-04-11T01:00:00",
-    "category": "Football",
-    "channel": "Binge App"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Karachi_Kings_Logo.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/8/8c/Hyderabad_cricket_team_logo.png",
+    "start_time": "2026-04-11T20:00:00",
+    "category": "Cricket",
+    "channel": "T Sports"
   },
   {
-    "name": "English Premier League: West Ham vs Wolverhampton",
+    "name": "EPL: Arsenal vs Bournemouth",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"},
-      {"label": "Server 2 (SD)", "url": "http://103.161.153.165:8000/play/stp2h/index.m3u8"},
-      {"label": "Backup", "url": "http://103.161.153.165:8000/play/stp3h/index.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://110.39.27.47:8001/play/a00o/index.m3u8"}
     ],
-    "logo": "iturn0image31",
-    "logo2": "iturn0image31",
-    "start_time": "2026-04-11T01:00:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_%282013%29.svg",
+    "start_time": "2026-04-11T17:30:00",
     "category": "Football",
-    "channel": "Star Sports Select 1"
+    "channel": "Star Sports Select 1, 2"
+  },
+  {
+    "name": "EPL: Liverpool vs Fulham",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://110.39.27.47:8001/play/a00o/index.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+    "start_time": "2026-04-11T22:30:00",
+    "category": "Football",
+    "channel": "Star Sports Select 1, 2"
+  },
+  {
+    "name": "La Liga: Barcelona vs Espanyol",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://example.com/laliga1.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/02/RCD_Espanyol_logo.svg",
+    "start_time": "2026-04-11T22:30:00",
+    "category": "Football",
+    "channel": "beIN / FanCode"
+  },
+  {
+    "name": "La Liga: Sevilla vs Atletico Madrid",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://example.com/laliga2.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+    "start_time": "2026-04-12T01:00:00",
+    "category": "Football",
+    "channel": "beIN / FanCode"
+  },
+  {
+    "name": "Bundesliga: Borussia Dortmund vs Bayer Leverkusen",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://example.com/bundes1.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
+    "start_time": "2026-04-11T19:30:00",
+    "category": "Football",
+    "channel": "Sony LIV"
+  },
+  {
+    "name": "Bundesliga: St. Pauli vs Bayern Munich",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://example.com/bundes2.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8a/FC_St._Pauli_logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+    "start_time": "2026-04-11T22:30:00",
+    "category": "Football",
+    "channel": "Sony LIV"
   }
 ]

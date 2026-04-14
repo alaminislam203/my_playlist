@@ -4,8 +4,8 @@
     "links": [
       {"label": "Server 1 (HD)", "url": "http://example.com/ipl1.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Punjab_Kings_Logo.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/Sunrisers_Hyderabad_Logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
+    "logo2": "https://www.sunrisershyderabad.in/assets/teamLogo/srhLogo.svg",
     "start_time": "2026-04-15T16:00:00",
     "category": "Cricket",
     "channel": "Star Sports 1, 2"
@@ -15,8 +15,8 @@
     "links": [
       {"label": "Server 1 (HD)", "url": "http://example.com/ipl2.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Chennai_Super_Kings_Logo.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals_Logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/250px-Chennai_Super_Kings_Logo.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Delhi_Capitals.svg/250px-Delhi_Capitals.svg.png",
     "start_time": "2026-04-15T20:00:00",
     "category": "Cricket",
     "channel": "Star Sports 1, 2"

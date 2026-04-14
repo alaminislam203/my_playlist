@@ -26,8 +26,8 @@
     "links": [
       {"label": "Server 1 (HD)", "url": "http://example.com/psl1.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d2/Peshawar_Zalmi_logo.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/3/3b/Lahore_Qalandars_logo.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/Peshawar_Zalmi_logo.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/6/63/Lahore_Qalandars.png",
     "start_time": "2026-04-15T15:30:00",
     "category": "Cricket",
     "channel": "T Sports"
@@ -37,8 +37,8 @@
     "links": [
       {"label": "Server 1 (HD)", "url": "http://example.com/psl2.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Karachi_Kings_Logo.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/8/8c/Hyderabad_cricket_team_logo.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Karachi_Kings.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Hyderabad_Kingsmen_logo.svg/250px-Hyderabad_Kingsmen_logo.svg.png",
     "start_time": "2026-04-15T20:00:00",
     "category": "Cricket",
     "channel": "T Sports"

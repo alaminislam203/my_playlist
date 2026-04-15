@@ -2,7 +2,7 @@
   {
     "name": "IPL: Royal Challengers Bangalore vs Lucknow Super Giants",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8?token=ac483000b1d7812da622cf9c081ab3596604b6d7-006ebfbc6383bcc42cc686d9564b5fec-1776254042-1776250442&remote=no_check_ip"}
+      {"label": "Server 1 (HD)", "url": http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Royal_Challengers_Bengaluru_Logo.svg/960px-Royal_Challengers_Bengaluru_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/250px-Lucknow_Super_Giants_Logo.svg.png",

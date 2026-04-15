@@ -1,46 +1,46 @@
 [
   {
-    "name": "IPL: Punjab Kings vs Sunrisers Hyderabad",
+    "name": "IPL: Royal Challengers Bangalore vs Lucknow Super Giants",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://example.com/ipl1.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://example.com/ipl.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
-    "logo2": "https://www.sunrisershyderabad.in/assets/teamLogo/srhLogo.svg",
-    "start_time": "2026-04-15T16:00:00",
-    "category": "Cricket",
-    "channel": "Star Sports 1, 2"
-  },
-  {
-    "name": "IPL: Chennai Super Kings vs Delhi Capitals",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "http://example.com/ipl2.m3u8"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/250px-Chennai_Super_Kings_Logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Delhi_Capitals.svg/250px-Delhi_Capitals.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/Royal_Challengers_Bangalore_Logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/5c/Lucknow_Super_Giants_Logo.svg",
     "start_time": "2026-04-15T20:00:00",
     "category": "Cricket",
     "channel": "Star Sports 1, 2"
   },
   {
-    "name": "PSL: Peshawar Zalmi vs Lahore Qalandars",
+    "name": "PSL: Peshawar Zalmi vs Quetta Gladiators",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://example.com/psl1.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://example.com/psl.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/Peshawar_Zalmi_logo.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/6/63/Lahore_Qalandars.png",
-    "start_time": "2026-04-15T15:30:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d2/Peshawar_Zalmi_logo.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/4/42/Quetta_Gladiators_logo.png",
+    "start_time": "2026-04-15T20:00:00",
     "category": "Cricket",
     "channel": "T Sports"
   },
   {
-    "name": "PSL: Karachi Kings vs Hyderabad",
+    "name": "UEFA Champions League: Bayern Munich vs Real Madrid",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://example.com/psl2.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://example.com/ucl1.m3u8"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Karachi_Kings.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Hyderabad_Kingsmen_logo.svg/250px-Hyderabad_Kingsmen_logo.svg.png",
-    "start_time": "2026-04-15T20:00:00",
-    "category": "Cricket",
-    "channel": "T Sports"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "start_time": "2026-04-16T01:00:00",
+    "category": "Football",
+    "channel": "Sony Sports 2"
+  },
+  {
+    "name": "UEFA Champions League: Arsenal vs Sporting CP",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "http://example.com/ucl2.m3u8"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/e0/Sporting_Clube_de_Portugal_logo.svg",
+    "start_time": "2026-04-16T01:00:00",
+    "category": "Football",
+    "channel": "Sony Sports 1"
   }
 ]

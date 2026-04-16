@@ -2,7 +2,8 @@
   {
     "name": "IPL: Mumbai Indians vs Punjab Kings",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8"},
+      {"label": "Server 2 (HD)", "url": "http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png",

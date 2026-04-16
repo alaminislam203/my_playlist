@@ -2,7 +2,7 @@
   {
     "name": "IPL: Mumbai Indians vs Punjab Kings",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png",
@@ -35,7 +35,7 @@
   {
     "name": "UEL: Celta Vigo vs Freiburg",
     "links": [
-      {"label": "Server 1 (HD)", "url": "URL_HERE"}
+      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/1200px-SC_Freiburg_logo.svg.png",

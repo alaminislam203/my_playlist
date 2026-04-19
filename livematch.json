@@ -2,7 +2,7 @@
   {
     "name": "IPL: Kolkata Knight Riders vs Rajasthan Royals",
     "links": [
-      {"label": "Server 1 (HD)", "url": "URL_HERE"}
+      {"label": "Server 1 (HD)", "url": "https://vibes.sagorislamrid.workers.dev/playlist.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/1200px-Rajasthan_Royals_Logo.svg.png",
@@ -13,7 +13,7 @@
   {
     "name": "IPL: Punjab Kings vs Lucknow Super Giants",
     "links": [
-      {"label": "Server 1 (HD)", "url": "URL_HERE"}
+      {"label": "Server 1 (HD)", "url": "https://vibes.sagorislamrid.workers.dev/playlist.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Lucknow_Super_Giants_IPL_Logo.svg/1200px-Lucknow_Super_Giants_IPL_Logo.svg.png",

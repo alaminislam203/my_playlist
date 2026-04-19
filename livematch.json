@@ -1,124 +1,90 @@
 [
   {
-    "name": "IPL: Mumbai Indians vs Punjab Kings",
+    "name": "IPL: Kolkata Knight Riders vs Rajasthan Royals",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8"},
-      {"label": "Server 2 (HD)", "url": "http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8"}
+      {"label": "Server 1 (HD)", "url": "URL_HERE"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png",
-    "start_time": "2026-04-16T20:00:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/1200px-Rajasthan_Royals_Logo.svg.png",
+    "start_time": "2026-04-19T16:00:00",
     "category": "Cricket",
     "channel": "Star Sports 1, 2"
   },
   {
-    "name": "PSL: Hyderabad Kingsmen vs Rawalpindi",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "https://sports.haar.website/proxy/stream?url=http%3A%2F%2F198.195.239.50%3A8095%2FTsports%2Ftracks-v1a1%2Fmono.m3u8"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Pakistan_Super_League_Logo.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/4/41/Pakistan_Super_League_Logo.png",
-    "start_time": "2026-04-16T15:30:00",
-    "category": "Cricket",
-    "channel": "T Sports"
-  },
-  {
-    "name": "PSL: Karachi Kings vs Islamabad United",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "https://sports.haar.website/proxy/stream?url=http%3A%2F%2F198.195.239.50%3A8095%2FTsports%2Ftracks-v1a1%2Fmono.m3u8"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Karachi_Kings_logo.svg/1200px-Karachi_Kings_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Islamabad_United_logo.svg/1200px-Islamabad_United_logo.svg.png",
-    "start_time": "2026-04-16T20:00:00",
-    "category": "Cricket",
-    "channel": "T Sports"
-  },
-  {
-    "name": "UEL: Celta Vigo vs Freiburg",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/1200px-SC_Freiburg_logo.svg.png",
-    "start_time": "2026-04-16T22:45:00",
-    "category": "Football",
-    "channel": "Sony Sports 2"
-  },
-  {
-    "name": "UECL: AZ Alkmaar vs Shakhtar Donetsk",
+    "name": "IPL: Punjab Kings vs Lucknow Super Giants",
     "links": [
       {"label": "Server 1 (HD)", "url": "URL_HERE"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/AZ_Alkmaar_logo.svg/1200px-AZ_Alkmaar_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/1200px-FC_Shakhtar_Donetsk.svg.png",
-    "start_time": "2026-04-16T22:45:00",
-    "category": "Football",
-    "channel": "Sony Sports 1"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Lucknow_Super_Giants_IPL_Logo.svg/1200px-Lucknow_Super_Giants_IPL_Logo.svg.png",
+    "start_time": "2026-04-19T20:00:00",
+    "category": "Cricket",
+    "channel": "Star Sports 1, 2"
   },
   {
-    "name": "UEL: Nottingham Forest vs Porto",
+    "name": "PSL: Multan Sultans vs Karachi Kings",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "URL_HERE"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Multan_Sultans_logo.svg/1200px-Multan_Sultans_logo.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Karachi_Kings_logo.svg/1200px-Karachi_Kings_logo.svg.png",
+    "start_time": "2026-04-19T15:30:00",
+    "category": "Cricket",
+    "channel": "T Sports"
+  },
+  {
+    "name": "PSL: Peshawar Zalmi vs Quetta Gladiators",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "URL_HERE"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Peshawar_Zalmi_logo.svg/1200px-Peshawar_Zalmi_logo.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Quetta_Gladiators_logo.svg/1200px-Quetta_Gladiators_logo.svg.png",
+    "start_time": "2026-04-19T20:00:00",
+    "category": "Cricket",
+    "channel": "T Sports"
+  },
+  {
+    "name": "EPL: Everton vs Liverpool",
+    "links": [
+      {"label": "Server 1 (HD)", "url": "URL_HERE"}
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "start_time": "2026-04-19T19:00:00",
+    "category": "Football",
+    "channel": "Star Sports Select 1"
+  },
+  {
+    "name": "EPL: Nottingham Forest vs Burnley",
     "links": [
       {"label": "Server 1 (HD)", "url": "URL_HERE"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "start_time": "2026-04-17T01:00:00",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/1200px-Burnley_F.C._Logo.svg.png",
+    "start_time": "2026-04-19T19:00:00",
     "category": "Football",
-    "channel": "Sony Sports 1"
+    "channel": "Star Sports Select 2"
   },
   {
-    "name": "UEL: Real Betis vs Braga",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "URL_HERE"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_Betis_Balompi%C3%A9_logo.svg/1200px-Real_Betis_Balompi%C3%A9_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Sporting_Clube_de_Braga_logo.svg/1200px-Sporting_Clube_de_Braga_logo.svg.png",
-    "start_time": "2026-04-17T01:00:00",
-    "category": "Football",
-    "channel": "Sony Sports 2"
-  },
-  {
-    "name": "UEL: Aston Villa vs Bologna",
+    "name": "EPL: Aston Villa vs Sunderland",
     "links": [
       {"label": "Server 1 (HD)", "url": "URL_HERE"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/1200px-Aston_Villa_FC_crest_%282016%29.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Bologna_F.C._1909_logo.svg/1200px-Bologna_F.C._1909_logo.svg.png",
-    "start_time": "2026-04-17T01:00:00",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
+    "start_time": "2026-04-19T19:00:00",
     "category": "Football",
-    "channel": "Sony Sports 5"
+    "channel": "Star Sports Select"
   },
   {
-    "name": "UECL: Fiorentina vs Crystal Palace",
+    "name": "EPL: Manchester City vs Arsenal",
     "links": [
       {"label": "Server 1 (HD)", "url": "URL_HERE"}
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/ACF_Fiorentina_2022_logo.svg/1200px-ACF_Fiorentina_2022_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/1200px-Crystal_Palace_FC_logo_%282022%29.svg.png",
-    "start_time": "2026-04-17T01:00:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "start_time": "2026-04-19T21:30:00",
     "category": "Football",
-    "channel": "Sony Sports 3"
-  },
-  {
-    "name": "UECL: AEK Athens vs Rayo Vallecano",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "URL_HERE"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/AEK_Athens_FC_logo.svg/1200px-AEK_Athens_FC_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
-    "start_time": "2026-04-17T01:00:00",
-    "category": "Football",
-    "channel": "Sony Sports"
-  },
-  {
-    "name": "UECL: Strasbourg vs Mainz 05",
-    "links": [
-      {"label": "Server 1 (HD)", "url": "URL_HERE"}
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_Alsace_logo.svg/1200px-Racing_Club_de_Strasbourg_Alsace_logo.svg.png",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/1._FSV_Mainz_05_logo.svg/1200px-1._FSV_Mainz_05_logo.svg.png",
-    "start_time": "2026-04-17T01:00:00",
-    "category": "Football",
-    "channel": "Sony Sports"
+    "channel": "Star Sports Select 1"
   }
 ]

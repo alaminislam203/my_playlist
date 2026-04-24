@@ -371,3 +371,44 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="SPORTS", SportsTVPlus
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",PIX11
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/648494.ts
+#EXTINF:-1 tvg-chno="36" tvg-id="SportsNetNewYork.us" tvg-name="SNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sport",SNY
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/418162.ts
+#EXTINF:-1,Unknown Channel
+https://github.com/llcoolhack/sportsbariptv/blob/main/tigersplaceholder.png?raw=true
+#EXTINF:-1,Unknown Channel
+https://github.com/llcoolhack/sportsbariptv/blob/main/uscbaseballplaceholder.png?raw=true
+#EXTINF:-1 tvg-chno="10" tvg-id="10Brisbane.au" tvg-name="Ten" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="Australia",Ten
+https://i.mjh.nz/.r/10-qld.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="9GemBrisbane.au" tvg-name="Nine Gem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/2560px-Nine_Network_logo_%282008%29.svg.png" group-title="Australia",Nine Gem
+https://i.mjh.nz/.r/gem-qld.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="7Brisbane.au" tvg-name="Seven" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Seven-Network-Logo-1536x864.png" group-title="Australia",Seven
+https://i.mjh.nz/.r/seven-bri.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="7TWOBrisbane.au" tvg-name="Seven Two" tvg-logo="https://i.mjh.nz/.images/auto-7two-bri-701123.png" group-title="Australia",Seven Two
+https://i.mjh.nz/.r/7two-bri.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="7mateBrisbane.au" tvg-name="Seven Mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" group-title="Australia",Seven Mate
+https://i.mjh.nz/.r/7mate-bri.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="ABCBrisbane.au" tvg-name="ABC TV" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-id="FOXSPORTS505.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 505
+http://chasintv.vip/live/Robert/123456/152320.ts
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759461.m3u8
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="SkySport2" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759462.m3u8
+#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="SkySport3" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759463.m3u8
+#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="SkySport4" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 4
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759464.m3u8
+#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="SkySport5" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 5
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759465.m3u8
+#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="SkySport7" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 7
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759467.m3u8
+#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="SkySport6" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 6
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759466.m3u8
+#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="SkySport8" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 8
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759468.m3u8
+#EXTINF:-1 tvg-id="Olympic Channel" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport",Olympic Channel
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418193

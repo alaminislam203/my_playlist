@@ -231,3 +231,230 @@ http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759468.m3u8
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759467.m3u8
 #EXTINF:-1 tvg-id="Olympic Channel" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport",Olympic Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418193
+#EXTINF:-1 tvg-id="12ChannelCherepovets.ru"tvg-logo="https://www.lyngsat.com/logo/tv/num/12-kanal-ru.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",Channel 12 Cherepovets (Russia only)
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="7TVvariant.ru"tvg-logo="https://www.lyngsat.com/logo/tv/num/7_tv_ru.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",7 TV variant (Russia only)
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="OTTGubernya.ru"tvg-logo="https://www.lyngsat.com/logo/tv/gg/guberniya-tv-ru.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",OTT Gubernya variant (Russia only)
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+#EXTINF:-1 tvg-id="12ChannelBonusTV.ru"tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/12-kanal-ru.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",12 Channel Bonus TV (Russia)
+http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="AccessSacramentoChannel18.us"tvg-logo="https://i.imgur.com/hs7XEGV.png"tvg-shift=""group-title="Public Access":http-referrer="":http-user-agent="",Access Sacramento Channel 18
+https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="AccessSacramentoChannel17.us"tvg-logo="https://i.imgur.com/hs7XEGV.png"tvg-shift=""group-title="Public Access":http-referrer="":http-user-agent="",Access Sacramento Channel 17
+https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-id="ActionSports.de"tvg-logo="https://i.imgur.com/xiTUsnA.png"tvg-shift=""group-title="Extreme Sports":http-referrer="":http-user-agent="",Action Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0870-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a89100a8-8115-4b28-9869-072164526f31
+#EXTINF:-1 tvg-id="AntenaSport.ro"tvg-logo="https://yt3.googleusercontent.com/mXF6CZIe_yJNlPPQdqVvGNUbLY6V6N38hLKnWWKcOMhCDjuLTFZZ4QH_faUmo0pPXQBEIIIa=s512-c-k-c0x00ffffff-no-rj"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",AntenaSport (720p) [Not 24/7]
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru"tvg-logo="https://i.imgur.com/BKaEtqL.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh"tvg-logo="https://i.imgur.com/fBpLsbC.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh"tvg-logo="https://i.imgur.com/ZkuZmIo.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us"tvg-logo="https://i.imgur.com/uJosqHh.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
+#EXTINF:-1 tvg-id="Belarus5Internet.by"tvg-logo="https://i.imgur.com/rzPQ9Iz.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Belarus 5 Internet feed
+http://onhockey.tv/index.php?place=fr_fluidtv&channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us"tvg-logo="https://i.imgur.com/uJb4VOc.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us"tvg-logo="https://i.imgur.com/VBKoLHk.png"tvg-shift=""group-title="Fight Sports":http-referrer="":http-user-agent="",Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
+#EXTINF:-1 tvg-id="BYUTV.us"tvg-logo="https://i.imgur.com/mruGyuu.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",BYU TV (720p)
+https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
+#EXTINF:-1 tvg-id="Calgary vs. Oilers final preseason 2023"tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coreymyke.com%2Flogos&psig=AOvVaw1bs8mY0TwyrH1X0fCT7-XZ&ust=1700334412873000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNja6dXdy4IDFQAAAAAdAAAAABAE"tvg-shift=""group-title="Ice Hockey":http-referrer="":http-user-agent="",Calgary versus Oilers preseason
+https://hls.clubstreams.nhl.com/CGY/20232024/L5584W0T/live_4000K_16x9_A.m3u8
+#EXTINF:-1 tvg-id="BSTUfa.ru"tvg-logo="https://i.imgur.com/IDotHmQ.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",BST Ufa (Russia only)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="CBSSportsHQ.us"tvg-logo="https://i.imgur.com/q8BENJg.png"tvg-shift=""group-title="Sports News and Talk":http-referrer="":http-user-agent="",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us"tvg-logo="https://i.imgur.com/eMjutHS.png"tvg-shift=""group-title="Sports News and Talk":http-referrer="":http-user-agent="",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do"tvg-logo="https://i.imgur.com/ZeUgLCa.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="DallasCowboysCheerleaders.us"tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png"tvg-shift=""group-title="American Rules Football":http-referrer="":http-user-agent="",Dallas Cowboy Cheerleaders (240p)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
+#EXTINF:-1 tvg-id="DongNaiTV2.vn"tvg-logo="https://i.imgur.com/tNKPSkO.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Đồng Nai 2 (576p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Eqqustv.us"tvg-logo="data:image/png;base64,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"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Eqqus TV USA
+https://equustelevision.com/cdn/produced_content/a8be1149-7851-4e77-b313-f3efaddbfe8f/video_360p.cmfv
+#EXTINF:-1 tvg-id="FanDuelTV.us"tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2F873dcb93915f7258898f83396518af91a43b9b02-2003x600.png&w=375&q=100"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Fan Duel TV (main) USA
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_5.m3u8
+#EXTINF:-1 tvg-id="FanDuelTVExtra.us"tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpluto.tv%2Fus%2Flive-tv%2F650b68bc2ce8e40008ac9c14&psig=AOvVaw06y7B5iwKeZ8QRErlW-qdo&ust=1720237122237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjxu_P8jocDFQAAAAAdAAAAABAE"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",FanDuel TV Extra USA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11de684-91ab-43d6-a2ba-b61881026b87
+#EXTINF:-1 tvg-id="Fight.us"tvg-logo="https://i.imgur.com/bBv4p5K.png"tvg-shift=""group-title="Fight Sports":http-referrer="":http-user-agent="",Fight
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f
+#EXTINF:-1 tvg-id="FanDuelTVRacing.us"tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Fdf884093945b2fa117498453df626114ac03c331-5478x2434.png&w=375&q=100"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Fan Duel TV Racing USA
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_5.m3u8
+#EXTINF:-1 tvg-id="Fishing Offshore (USA) - Airy TV"tvg-logo=""tvg-shift=""group-title="Outdoor Sports":http-referrer="":http-user-agent="",Fishing Offshore (USA) - Airy TV
+https://30a-tv.com/feeds/airytv/fishingoffshore.m3u8
+#EXTINF:-1 tvg-id="Flames vs. Jets prospects"tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coreymyke.com%2Flogos&psig=AOvVaw1bs8mY0TwyrH1X0fCT7-XZ&ust=1700334412873000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNja6dXdy4IDFQAAAAAdAAAAABAE"tvg-shift=""group-title="Ice Hockey":http-referrer="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coreymyke.com%2Flogos&psig=AOvVaw1bs8mY0TwyrH1X0fCT7-XZ&ust=1700334412873000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNja6dXdy4IDFQAAAAAdAAAAABAE":http-user-agent="Flames vs. Jets prospects 9-13-24",Flames vs. Jets prospects 9-13-24
+https://hls.clubstreams.nhl.com/CGY/20232024/PLCBKAPR/live_4000K_16x9_B.m3u8
+#EXTINF:-1 tvg-id="FlamesTV.ca"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDimhO6-6O1T38I-pEYPS-akTD3mODOExhGg&usqp=CAU"tvg-shift=""group-title="Ice Hockey":http-referrer="":http-user-agent="",Flames TV versus Jets 10-2-2023 preseason
+https://hls.clubstreams.nhl.com/CGY/20232024/DS4Y8IC3/live_4000K_16x9_B.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj"tvg-logo="https://i.imgur.com/RngmCDn.png"tvg-shift=""group-title="Soccer":http-referrer="":http-user-agent="",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.au"tvg-logo="https://i.imgur.com/r5Ip3P0.png"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Horse and Country (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.uk"tvg-logo="https://i.imgur.com/FNFFhEq.png"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="InterTV.it"tvg-logo="https://i.imgur.com/FUTqh2L.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Inter TV (720p)
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx"tvg-logo="https://iili.io/J1kV1Bn.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="Knights at Sharks 9-22-2024"tvg-logo=""tvg-shift=""group-title="Ice Hockey":http-referrer="":http-user-agent="",Knights at Sharks 9-22-2024
+https://hls.clubstreams.nhl.com/SJS/20232024/QX2XE8Y9/live_4000K_16x9_B.m3u8
+#EXTINF:-1 tvg-id="KSASports1.sa"tvg-logo="https://i.imgur.com/ONKNOAp.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa"tvg-logo="https://i.imgur.com/v8ULLqg.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-id="LacrosseTV.us"tvg-logo="https://i.imgur.com/zYH4IsV.png"tvg-shift=""group-title="Other Sports":http-referrer="":http-user-agent="",Lacrosse TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa"tvg-logo="https://i.imgur.com/BXfCvez.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",KSA Sports 3 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw"tvg-logo="https://i.imgur.com/R1hGX1d.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw"tvg-logo="https://i.imgur.com/l4oX0gf.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",KTV Sport Plus (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MadeinBOTV.it"tvg-logo="https://i.imgur.com/47X44DD.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",MadeinBO TV (1080p)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.us"tvg-logo="https://i.imgur.com/ym3su2J.png"tvg-shift=""group-title="Baseball":http-referrer="":http-user-agent="",MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:-1 tvg-id="Monster Jam"tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Symbol.png"tvg-shift=""group-title="Motor Sports":http-referrer="":http-user-agent="",Monster Jam
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959
+#EXTINF:-1 tvg-id="Mobile County Public Schools TV Network"tvg-logo=""tvg-shift=""group-title="School TV":http-referrer="":http-user-agent="",Mobile County Public Schools TV Network
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk"tvg-logo="https://i.imgur.com/7k8ar1Z.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn"tvg-logo="https://i.imgur.com/z854PC3.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",MNB Sport (1080p)
+https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-id="MotorvisionTV.de"tvg-logo="https://i.imgur.com/QDZrBDi.png"tvg-shift=""group-title="Motor Sports":http-referrer="":http-user-agent="",Motorvision TV (720p)  -Germany
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd30-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=456ff785-b712-4c67-a20f-5327add4053e
+#EXTINF:-1 tvg-id="NBCSports.us"tvg-logo="https://www.google.com/imgres?q=nbc%20sports%20logo&imgurl=https%3A%2F%2Fwww.nbcstore.com%2Fcdn%2Fshop%2Ffiles%2Fnbc-sports-mobile-min.jpg%3Fv%3D1689009421&imgrefurl=https%3A%2F%2Fwww.nbcstore.com%2Fcollections%2Fnbc-sports&docid=NqWcZUl0TQCvtM&tbnid=X3waWCSgS2Ir5M&vet=12ahUKEwiIwqDf68KIAxXtHzQIHcMPKogQM3oECDEQAA..i&w=750&h=500&hcb=2&ved=2ahUKEwiIwqDf68KIAxXtHzQIHcMPKogQM3oECDEQAA"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTV.de"tvg-logo="https://i.imgur.com/9uaMgTk.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",Niederbayern TV Landshut HD (Germany)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NNTV.ru"tvg-logo="https://www.lyngsat.com/logo/tv/nn/nntv-ru.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",NNTV variant (Russia only)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 tvg-id="Oilers at Flames 9-23-2-2024"tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coreymyke.com%2Flogos&psig=AOvVaw1bs8mY0TwyrH1X0fCT7-XZ&ust=1700334412873000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNja6dXdy4IDFQAAAAAdAAAAABAE"tvg-shift=""group-title="Ice Hockey":http-referrer="":http-user-agent="",Oilers at Flames 9-23-24
+https://hls.clubstreams.nhl.com/CGY/20232024/G3LCIAWL/live_4000K_16x9_A.m3u8
+#EXTINF:-1 tvg-id="NNTV24.ru"tvg-logo="https://www.lyngsat.com/logo/tv/nn/nntv-ru.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",NNTV24 variant (Russia only)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
+#EXTINF:-1 tvg-id="OmanSportsTV.om"tvg-logo="https://i.imgur.com/1omi7p8.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OTVYekaiternburgUralvariant.ru"tvg-logo="https://www.lyngsat.com/logo/tv/oo/oblastnoe-tv-ru.svg"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",OTV Yekaterinburg Ural variant (Russia only)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="OTVChelibinskUralvarant.ru"tvg-logo="https://www.lyngsat.com/logo/tv/oo/oblastnoe-tv-ru.svg"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",OTV Cheliybaninsk Ural variant (Russia only
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe"tvg-logo="https://i.imgur.com/7Xndgxk.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBRRidePass.us"tvg-logo="https://i.imgur.com/gUxH97E.png"tvg-shift=""group-title="Other Sports":http-referrer="":http-user-agent="",PBR RidePass
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
+#EXTINF:-1 tvg-id="PGATour.us"tvg-logo="https://i.imgur.com/J0TY9dG.png"tvg-shift=""group-title="Golf":http-referrer="":http-user-agent="",PGA Tour (720p)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
+#EXTINF:-1 tvg-id="Pac12Insider.us"tvg-logo="https://i.imgur.com/736QREy.png"tvg-shift=""group-title="College Sports":http-referrer="":http-user-agent="",Pac 12 Insider (1080p)
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us"tvg-logo="https://i.imgur.com/0pDy6f4.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVMotor.fr"tvg-logo="https://i.imgur.com/54Mbv9w.png"tvg-shift=""group-title="Motor Sports":http-referrer="":http-user-agent="",Pluto TV Motor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618d4ea306d23b0007356080/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d7e5e82-392b-4e7e-84f2-2f5ce35e088d
+#EXTINF:-1 tvg-id="PlutoTVExtreme.fr"tvg-logo="https://i.imgur.com/b1xrzns.png"tvg-shift=""group-title="Extreme Sports":http-referrer="":http-user-agent="",Pluto TV Extrême
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055173-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7522642e-9d44-4966-a890-495997625c28
+#EXTINF:-1 tvg-id="PlutoTVSports.fr"tvg-logo="https://i.imgur.com/bR2TTGu.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Pluto TV Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa2cd1f8-5f20-441d-97cb-63e4c1c5e4f6
+#EXTINF:-1 tvg-id="PlutoTVSports.us"tvg-logo="https://i.imgur.com/Fc3NQAI.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Pluto TV Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8673a43c-58ba-48b3-8db5-75986abb01b9
+#EXTINF:-1 tvg-id="PlutoTVSports.uk"tvg-logo="https://i.imgur.com/LW77x7g.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Pluto TV Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de"tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png"tvg-shift=""group-title="Other Sports":http-referrer="":http-user-agent="",Pluto TV Surf (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
+#EXTINF:-1 tvg-id="PokerGo.us"tvg-logo="https://i.imgur.com/1603HED.png"tvg-shift=""group-title="Poker and Gambling":http-referrer="":http-user-agent="",PokerGo
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
+#EXTINF:-1 tvg-id="QazSport.kz"tvg-logo="https://i.imgur.com/UDJ0P5Q.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Qaz Sport (Kazakhstan)
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="QazSport.kz"tvg-logo="https://i.imgur.com/UDJ0P5Q.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",QazSport (480p)
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="RightNowTV.us"tvg-logo="https://i.imgur.com/OxbIla4.png"tvg-shift=""group-title="Sports News and Talk":http-referrer="":http-user-agent="",RightNow TV (720p)
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at"tvg-logo="https://i.postimg.cc/8c78JM28/image.png"tvg-shift=""group-title="Extreme Sports":http-referrer="":http-user-agent="",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm"tvg-logo="https://i.imgur.com/PGm944g.png"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-id="SEOTV5Deportes.bo"tvg-logo="https://i.imgur.com/N56B7si.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",SEO TV 5 Deportes (1080p) [Not 24/7]
+https://seo.tv.bo/tv/SEOtv_5sd.m3u8
+#EXTINF:-1 tvg-id="RuskiSever.ru"tvg-logo=""tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",Ruski Severastpol (Russia only)
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs"tvg-logo="https://i.imgur.com/9SD40uH.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsNewsHighlights.us"tvg-logo="https://play-lh.googleusercontent.com/9w-Zd77j2DRRcviMIXebnKknar_E1Ykj0a42TAFFX6xmpHKMi_v4yp2w5_fqAm7GvU0"tvg-shift="SportsNewsHighlights.us"group-title="Sports News and Talk":http-referrer="":http-user-agent="",Sports News Highlights (720p) [Geo-blocked]
+https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us"tvg-logo="https://i.imgur.com/ulGKX30.png"tvg-shift=""group-title="Sports News and Talk":http-referrer="":http-user-agent="",SportsGrid (1080p)
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsNewsHighlights.us"tvg-logo="https://play-lh.googleusercontent.com/9w-Zd77j2DRRcviMIXebnKknar_E1Ykj0a42TAFFX6xmpHKMi_v4yp2w5_fqAm7GvU0"tvg-shift=""group-title="Sports News and Talk":http-referrer="":http-user-agent="",Sports News Highlights (720p) [Geo-blocked]
+https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.de"tvg-logo="https://i.imgur.com/4eAFuKI.png"tvg-shift=""group-title="Other Sports":http-referrer="":http-user-agent="",Strongman
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1452156c07b50009d0230e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0be139f-be68-4d55-940e-e5aae0d99e04
+#EXTINF:-1 tvg-id="TBSEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",TBS East (US geoblocked)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TelemundoWest.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"tvg-shift="TelemundoWest.us"group-title="General TV":http-referrer="":http-user-agent="",Telemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TBSWest.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",TBS West (US geoblocked)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Teleticnio_720P.it"tvg-logo=""tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",Telectinio 720P Italy
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-id="TDMSports.mo"tvg-logo="https://i.imgur.com/AsWLf8S.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us"tvg-logo="https://i.imgur.com/tsljAnY.png"tvg-shift=""group-title="Tennis":http-referrer="":http-user-agent="",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl"tvg-logo="https://i.imgur.com/NoJvlig.png"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 tvg-id="TNTEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.pn"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",TNT East (US geoblocked)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNTWest.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.pn"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",TNT West (US geoblocked)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr"tvg-logo="https://i.imgur.com/FabFP5A.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNVTartastanUralvariant.ru"tvg-logo=""tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",TNV Tartastan Ural variant (Russia only)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1 tvg-id="TNVTartastanvariant.ru"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnv_tatarstan.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",TNV Tartastan variant (Russa only)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1 tvg-id="TRSport.it"tvg-logo="https://i.imgur.com/ELXmaqg.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TracksideRadio.nz"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/76eczlc77c7k.jpg"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Trackside Radio (New Zealand))
+https://tab-radio.akamaized.net/hls/live/2017720/Radio/playlist.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm"tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="TurfMovil.cl"tvg-logo="https://i.imgur.com/TwIe4lK.png"tvg-shift=""group-title="Equine and Dogs":http-referrer="":http-user-agent="",Turf Movil (720p)
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+#EXTINF:-1 tvg-id="TV5.fi"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-fi.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="",TV5 (Finland)
+https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1 tvg-id="TV-IN Magnitogorsk"tvg-logo="https://tv-in.ru/images/logo_footer.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",TV-IN Magnitogorsk (Russia only for KHL)
+https://live.tv-in.ru/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TV-INmagnitogorskUralvariant.ru"tvg-logo="https://tv-in.ru/images/logo_footer.png"tvg-shift=""group-title="General TV":http-referrer="":http-user-agent="Exo Player",TV-IN Magnitogorsk Ural variant (Russia only
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us"tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg"tvg-shift=""group-title="Retro Sports":http-referrer="":http-user-agent="",TVS Bowling Network (720p)
+https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl"tvg-logo="https://i.imgur.com/JUZDOCO.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",TVP Sport (1080p)
+https://irylek.ct8.pl/stream/tvpsport
+#EXTINF:-1 tvg-id="TVSClassicSports.us"tvg-logo="https://i.imgur.com/auR0Mi6.png"tvg-shift=""group-title="Retro Sports":http-referrer="":http-user-agent="",TVS Classic Sports (360p)
+https://bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us"tvg-logo="https://i.imgur.com/Lwwq62E.png"tvg-shift=""group-title="Retro Sports":http-referrer="":http-user-agent="",TVS Sports (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us"tvg-logo="https://i.imgur.com/7zYIbU1.png"tvg-shift=""group-title="Retro Sports":http-referrer="":http-user-agent="",TVS Turbo (360p)
+https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us"tvg-logo="https://i.imgur.com/30ZoF75.png"tvg-shift=""group-title="Retro Sports":http-referrer="":http-user-agent="",TVS Boxing (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us"tvg-logo="https://i.imgur.com/pXOyNEy.png"tvg-shift=""group-title="Sports News and Talk":http-referrer="":http-user-agent="",TVS Sports Bureau (720p)
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us"tvg-logo="https://i.imgur.com/8hC4PfF.png"tvg-shift=""group-title="Women's Sports":http-referrer="":http-user-agent="",TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us"tvg-logo="https://i.imgur.com/LmkNt3v.png"tvg-shift=""group-title="Fight Sports":http-referrer="":http-user-agent="",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.de"tvg-logo="https://i.imgur.com/jEe1dWV.png"tvg-shift=""group-title="Poker and Gambling":http-referrer="":http-user-agent="",World Poker Tour
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
+

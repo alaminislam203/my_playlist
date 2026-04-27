@@ -2,8 +2,7 @@
   {
     "name": "IPL: Kolkata Knight Riders vs Rajasthan Royals",
     "links": [
-      {"label": "Server 1 (HD)", "url": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8"},
-      {"label": "Server 2 (HD)", "url": "https://vsd161.okcdn.ru/cmaf/15184860941055/sig/RsMsS-oUvoo/expires/1776677513173/srcIp/152.59.147.99/urls/185.226.52.86/clientType/36/srcAg/CHROME/mid/13953620854783/get/hls_13953620854783.sVzMBN80hGo.m3u8"}
+      {"label": "Server 1 (HD)", "url": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/1200px-Rajasthan_Royals_Logo.svg.png",

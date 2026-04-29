@@ -11,9 +11,9 @@
     "channel": "Star Sports 1, 2"
   },
   {
-    "name": "PSL: Playoff Match",
+    "name": "PSL: Multan Sultans vs Hyderabad Kingsmen",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://27.124.71.27/T-Sports/index.m3u8"}
+      {"label": "Server 1 (HD)", "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E1-World_Feed/master.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Pakistan_Super_League_Logo.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/4/41/Pakistan_Super_League_Logo.png",

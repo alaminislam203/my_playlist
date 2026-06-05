@@ -2,11 +2,11 @@
   {
     "name": "IPL: Mumbai Indians vs Sunrisers Hyderabad",
     "links": [
-      {"label": "Server 1 (HD)", "url": "http://185.132.134.159:80/sport6/index.m3u8"}
+      {"label": "Server 1 (HD)", "url": "http://103.180.212.191:3500/live/162.m3u8"}
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/250px-Mumbai_Indians_Logo.svg.png",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png",
-    "start_time": "2026-04-29T20:00:00",
+    "start_time": "2026-06-29T18:33:00",
     "category": "Cricket",
     "channel": "Star Sports 1, 2"
   },
